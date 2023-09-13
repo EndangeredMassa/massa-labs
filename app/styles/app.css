@@ -23,15 +23,28 @@
   /* --code: #f06292; */
   /* --preformatted: #ccc; */
   /* --disabled: #111; */
+
+  header {
+    /* --text: #FFFFFF; */
+    color: #FFFFFF;
+  }
 }
 
-
-header {
-  /* --text: #FFFFFF; */
-  color: #FFFFFF;
+a:visited {
+  color: inherit;
 }
 
+/* Icons from: https://www.iconfinder.com/iconsets/font-awesome-brands-vol-1 */
+.icon-button {
+  /* background-color: #333; */
+  text-decoration: none;
 
-#de0ee1
-#400ee1
+  svg {
+    color: var(--text);
+  }
+}
 
+.socials a {
+  margin: 0 0.2rem;
+  display: inline-block;
+}

@@ -43,6 +43,7 @@
     "ember-resolver": "^11.0.1",
     "ember-route-template": "^1.0.1",
     "ember-source": "~5.2.0",
+    "ember-svg-jar": "^2.4.6",
     "ember-template-imports": "^3.4.2",
     "ember-template-lint": "^5.11.2",
     "loader.js": "^4.7.0",
