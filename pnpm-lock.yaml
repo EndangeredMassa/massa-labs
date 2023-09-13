@@ -86,6 +86,9 @@ devDependencies:
   ember-source:
     specifier: ~5.2.0
     version: 5.2.0(@babel/core@7.22.17)(@glimmer/component@1.1.2)(rsvp@4.8.5)(webpack@5.88.2)
+  ember-template-imports:
+    specifier: ^3.4.2
+    version: 3.4.2
   ember-template-lint:
     specifier: ^5.11.2
     version: 5.11.2
