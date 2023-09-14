@@ -1,6 +1,7 @@
 'use strict';
 
 const EmberApp = require('ember-cli/lib/broccoli/ember-app');
+const scanDir = require('./lib/scan-dir');
 
 module.exports = function (defaults) {
   const app = new EmberApp(defaults, {
@@ -8,12 +9,7 @@ module.exports = function (defaults) {
       options: { processImport: true },
     },
     prember: {
-      urls: [
-        '/',
-        '/talks',
-        '/articles',
-        '/projects',
-      ]
+      urls: scanDir
     }
   });
 
