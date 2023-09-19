@@ -17,6 +17,8 @@ Router.map(function () {
 
   this.route('articles', function() {
     this.route('index', { path: '/' });
+
+    // manually listed articles
     this.route('some-post');
   });
 });
