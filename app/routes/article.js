@@ -4,7 +4,16 @@ import articles from '../article-data';
 export default class ArticlesArticleRoute extends Route {
   beforeModel(transition) {
     // set the proper template
-    let slug = transition.intent.url.replace('/articles/', '');
+
+    let slug;
+    if (transition.intent.url) {
+      // direct load
+      slug = transition.intent.url.replace('/articles/', '');
+    } else {
+      // linked load
+      slug = transition.routeInfos[1].context.slug;
+    }
+
     this.templateName = `articles.${slug}`;
   }
 
