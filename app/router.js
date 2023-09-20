@@ -1,5 +1,6 @@
 import EmberRouter from '@ember/routing/router';
 import config from 'ember-blog/config/environment';
+import articles from './article-data';
 
 export default class Router extends EmberRouter {
   location = config.locationType;
@@ -17,8 +18,10 @@ Router.map(function () {
 
   this.route('articles', function() {
     this.route('index', { path: '/' });
-
-    // manually listed articles
-    this.route('some-post');
   });
+
+  for(let article of articles) {
+    let path = article.route.replace(/\./g, '/');
+    this.route(article.route, { path });
+  }
 });

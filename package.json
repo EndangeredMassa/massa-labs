@@ -1,9 +1,6 @@
 {
   "name": "ember-blog",
-  "version": "0.0.0",
   "private": true,
-  "license": "",
-  "author": "",
   "directories": {
     "test": "tests"
   },
