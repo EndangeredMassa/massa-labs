@@ -1,3 +1,5 @@
+<ArticleHeader @article={{this.model}} />
+
 I have gone through the process of adding linting to existing, large projects a couple of times. I've learned some lessons about how to approach this so that it's not disruptive to the team doing other work. Follow these steps to get robust linting into your project without pulling team velocity to a halt!
 
 

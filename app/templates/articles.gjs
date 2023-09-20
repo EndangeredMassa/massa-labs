@@ -9,7 +9,5 @@ export default RouteTemplate(
       @article={{article}}
     />
   {{/each}}
-
-  {{outlet}}
 </template>
 );
