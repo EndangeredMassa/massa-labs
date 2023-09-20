@@ -1,10 +1,10 @@
 let articles =
 [
   {
-    "title": "some post",
-    "route": "articles.some-post",
-    "date": "2023-01-02",
-    "description": "some post"
+    "title": "A Developer's Guide to Better Accessibility",
+    "route": "articles.developers-guide-a11y",
+    "date": "2017-12-07",
+    "description": "Melanie Sumner and I wrote about the <a href=\"https://www.24a11y.com/2017/a-developers-guide-to-better-accessibility/\">Six Pillars of Accessibility</a> as a structured guide for developers to move the needle on accessibility."
   },
   {
     "title": "An Incremental Approach to Linting to Your Projects",

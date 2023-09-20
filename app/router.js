@@ -21,7 +21,8 @@ Router.map(function () {
   });
 
   for(let article of articles) {
-    let path = article.route.replace(/\./g, '/');
+    let path = '/' + article.route.replace(/\./g, '/');
+    console.log(`Registering "${article.route}" at: ${path}`);
     this.route(article.route, { path });
   }
 });
