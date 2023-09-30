@@ -48,7 +48,7 @@ For my purposes, I decided a theme has to be:
 
 # What is a PACT Goal?
 
-*This concept comes from [SMART goals are not so smart: make a PACT instead](https://nesslabs.com/smart-goals-pact)* by [Anne-Laure Le Cunff](https://twitter.com/anthilemoon) through [Ness Labs](https://twitter.com/ness_labs).
+*This concept comes from [SMART goals are not so smart: make a PACT instead](https://nesslabs.com/smart-goals-pact)* by [Anne-Laure Le Cunff](https://twitter.com/neuranne) through [Ness Labs](https://twitter.com/ness_labs).
 
 Anne-Laure defines a PACT Goal as:
 
