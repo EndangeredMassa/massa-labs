@@ -7,7 +7,7 @@ import { LinkTo } from '@ember/routing';
       @model={{@article}}>
         {{@article.title}}
     </LinkTo>
-    <p class="meta"><i>{{@article.description}}</i></p>
+    <p class="meta"><i>{{{@article.description}}}</i></p>
     <p class="meta">{{@article.date}}</p>
   </div>
 </template>
