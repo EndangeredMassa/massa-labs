@@ -8,6 +8,10 @@ module.exports = function (defaults) {
     minifyCSS: {
       options: { processImport: true },
     },
+    routerScroll: {
+      scrollWhenAfterRender: false,
+      scrollWhenIdle: false,
+    },
     prember: {
       urls: scanDir
     }
