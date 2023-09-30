@@ -3,7 +3,7 @@
 I have gone through the process of adding linting to existing, large projects a couple of times. I've learned some lessons about how to approach this so that it's not disruptive to the team doing other work. Follow these steps to get robust linting into your project without pulling team velocity to a halt!
 
 
-# What's So Great About Linting?
+## What's So Great About Linting?
 
 The really great benefits to code linting are that it:
 
@@ -17,7 +17,7 @@ Consistency of code removes the need to make decisions (individually and as a te
 It can also be valuable to adopt coding styles shared by a larger community. Your language, framework, or tools' communities will have their own conventions. Aligning with those can help alleviate friction when a developer switches context between internal and external code as well as when a developer changes jobs internally or externally.
 
 
-# How Do I Get Started?
+## How Do I Get Started?
 
 ### Collect Existing Conventions
 
@@ -49,12 +49,12 @@ Submit the changes for review. Team members can disagree and have a conversation
 Repeat this step until all rules are back on!
 
 
-# The Result
+## The Result
 
 We now have a process for incremental maintenance work that we can do in small chunks to improve the state of the code. As long as your team has the appropriate slack time dedicated to maintenance, you'll get through all of this work in no time!
 
 
-# I Want More!
+## I Want More!
 
 There are a lot of great linters out there. Here's a list to get you started!
 

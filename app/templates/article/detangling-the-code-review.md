@@ -1,6 +1,6 @@
 <ArticleHeader @article={{this.model}} />
 
-# Responsibility
+## Responsibility
 
 As a team member, you have the following responsibilities to your teammates regard code reviews:
 
@@ -18,7 +18,7 @@ As a code change author requesting review, you have the following responsibiliti
     - write detailed descriptions of why your changes were made in review requests
 - respond quickly to feedback
 
-# Understanding Code Review Comments
+## Understanding Code Review Comments
 
 **Your goal is to approve the code change if at all possible.** This builds momentum, shows progress, and even in cases where the author needs to make a change, allows their original contribution to be impactful.
 
@@ -92,7 +92,7 @@ This structure gives you a shared set of language and expectations to make code 
 
 However, there is room for flexibility. When the site is down, feel free to toss these ideas out the window. When you have a good reason to deviate from this, just explain way.
 
-# Takeaways
+## Takeaways
 
 This model gives you the tools to consume and express code review comments more effectively.
 
@@ -104,7 +104,7 @@ The type of comment (Question, Preference, Convention, Suggestion, or Requiremen
 - Convention: soft-blocking
 - Requirement: blocking
 
-# Related Topics
+## Related Topics
 
 However feedback on code changes is provided, they should be communicated with compassion. You should consider how your comments will be received based on team context and experience level of the author. Dr. McKayla goes into much more detail on [compassionate code review](https://www.michaelagreiler.com/respectful-constructive-code-review-feedback/).
 

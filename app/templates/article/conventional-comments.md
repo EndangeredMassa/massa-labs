@@ -66,12 +66,12 @@ All comments are also non-blocking unless otherwise specified.
 > 
 > It looks like the code and test are accidentally checking that the file was found, but I think here we expect the file to not be found.
 
-# Takeaways
+## Takeaways
 
 This structure makes it clear to others what needs to be done. It's also a good forcing function for the author to consider the feedback they provide more carefully.
 
 The best part is that readers don't have to know about the structure to understand feedback written in this style.
 
-# Related Topics
+## Related Topics
 
 See [Detangling the Code Review](./detangling-the-code-review) for details about different kinds of feedback.

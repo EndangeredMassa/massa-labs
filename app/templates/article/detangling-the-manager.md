@@ -23,7 +23,7 @@ The core argument follows. The most important parts are bold.
 
 ---
 
-# **Conflicting Roles and Incentives**
+## **Conflicting Roles and Incentives**
 
 The term Manager means a lot of different things to different companies. It can include Project Manager, Product Manager, Technical Lead, Team Lead, Mentor, Coach, Supervisor, as well as Individual Contributor. Most often, in my experience, a manager is responsible for at least these roles: Supervisor, Mentor, and Team Lead.
 
@@ -37,7 +37,7 @@ For each type of manager, they play their secondary roles to a lesser degree, so
 
 The Mentor role is most often absent and most often needed. It also exposes the strongest conflict between these three roles. Mentor directly conflicts with Supervisor: When you feel like you are not doing a good job, you should be able to talk to a Mentor about it, but a Supervisor may judge you for it, affecting your opportunities and compensation.
 
-# **Ideal Solution: Separate Roles for Separate People**
+## **Ideal Solution: Separate Roles for Separate People**
 
 I think the clearest solution is to split the roles, but that option isn't possible for every organization. Either your company is too small or too rigid in organizational structure. If you can't split up the roles, see the next section on a Pragmatic Solution. If you can split the roles, read on!
 
@@ -53,7 +53,7 @@ For those playing multiple roles, expectations should be set appropriately. It's
 
 This works! The role conflict melts away, leading to a happier, more productive department.
 
-# **Pragmatic Solution: Strategies for Playing Conflicting Roles**
+## **Pragmatic Solution: Strategies for Playing Conflicting Roles**
 
 Companies aren't always large or flexible enough to split up the Manager's roles into multiple people.
 
@@ -65,7 +65,7 @@ The core strategy to resolve the internal conflict is to try to only wear one ro
 
 **Stay Self-aware:** In other ad-hoc interactions, you may be playing any of these roles. Recognize that your suggestions can come across as commands. Be explicit with teammates about which roles you are playing when.
 
-## Performance Assessment **of Your Many Hats**
+### Performance Assessment **of Your Many Hats**
 
 If your company doesn't have clear expectations per role, you should write them out for yourself.
 
@@ -83,7 +83,7 @@ Then, ask each Team Member to review your performance of each role they interact
 
 Performance Review itself is a topic for another day. The import part here is that each role is reviewed separately.
 
-# Continued Learning
+## Continued Learning
 
 For me:
 

@@ -11,7 +11,7 @@ I'll spare you my long (and boring) history with struggling to answer these ques
 
 I've tried the first approach for many years. It's time to try the second.
 
-# Theme Pact Framework
+## Theme Pact Framework
 
 Pulling from several sources, my framework for goal setting includes:
 
@@ -28,7 +28,7 @@ I like this model because you control the direction and personal outputs. Succes
 
 By leveraging the power of direction, defaults, and habits, this framework makes success happen as a matter of course. Well, that's the theory.
 
-# What is a Theme?
+## What is a Theme?
 
 *This concept comes from the [Theme System](https://www.thethemesystem.com/), developed by [Myke Hurley](https://twitter.com/imyke) and [CGP Grey](https://twitter.com/cgpgrey/) through [Cortex](https://www.relay.fm/cortex).*
 
@@ -46,7 +46,7 @@ For my purposes, I decided a theme has to be:
 
 **Infallible:** A theme is infallible. You cannot fail. It's a direction, not a destination.
 
-# What is a PACT Goal?
+## What is a PACT Goal?
 
 *This concept comes from [SMART goals are not so smart: make a PACT instead](https://nesslabs.com/smart-goals-pact)* by [Anne-Laure Le Cunff](https://twitter.com/neuranne) through [Ness Labs](https://twitter.com/ness_labs).
 
@@ -66,7 +66,7 @@ I extend this further to include:
 
 **Habitual:** My PACT Goals are habitual. They either rely on existing habits to trigger new behavior or define new habits I'll need to develop in order to accomplish the goal.
 
-# What is a Habit?
+## What is a Habit?
 
 *This concept comes from [Atomic Habits](https://jamesclear.com/atomic-habits)* by [James Clear](https://jamesclear.com/).
 
@@ -85,7 +85,7 @@ Craving and Reward are two sides of the same coin. You need to make the habit re
 
 I focus mostly on setting new good habits here, but James makes it clear that you can use a similar system to break bad habits.
 
-# Setting a Theme Pact
+## Setting a Theme Pact
 
 Steps:
 
@@ -96,13 +96,13 @@ Steps:
 5. If any of your PACT Goals needs support from a new habit: define new habits
 6. Track your progress
 
-# Outcomes
+## Outcomes
 
 My first stab at this was too much all at once. I did form some useful habits around my theme, but I couldn’t keep up with everything I tried to do. 
 
 I (re-)discovered that smaller iterations are better. If you are going from zero to Theme Pact, I suggest iteratively adding pieces until you are comfortable with a given piece. To start, define a theme OR work on forming one good habit OR work on breaking one bad habit.
 
-# Resources
+## Resources
 
 If you want to learn more about these topics, I recommend the following.
 

@@ -24,7 +24,7 @@ Note that the value of each process will vary by team composition and project ma
 - More vs. less experienced
 - Kanban vs. Sprint vs. Project vs. Waterfall styles
 
-# Pragmatic Approach
+## Pragmatic Approach
 
 Figure out what kind of standup you have will help you understand its purpose. That will help you accept the value it provides, even if it’s not for you.
 
@@ -38,8 +38,6 @@ These contributions are most useful to the team lead and/or stakeholders to unde
 
 > Yesterday I was working on the “Sign In With Google” story, but hit a weird issue with the integration. I spent a few hours debugging it. I should finish it this morning. Today, I’ll finish that story and pick up the next one.
 
-
-
 **Context Sharing “Standups”**
 
 Individual contributions to these meetings focus on what was done, how, and/or why. They include specifics.
@@ -49,7 +47,6 @@ These contributions are generally more useful to the individual contributors on 
 > Yesterday I was working on the “Sign In With Google” story, but hit a weird issue with the integration. I spent a few hours debugging it. Turns out, the documentation was wrong about how to differentiate between bad credentials and bad integration.
 > 
 > In my debugging, I built up a wrapper component that smooths over the confusing parts and more clearly validates inputs based on our needs. Make sure you use it in our other apps if you need to implement Google sign in.
-
 
 **Community Building “Standups”**
 
@@ -69,8 +66,7 @@ These contributions are generally more useful to the individual contributors on 
 
 > Yesterday I was working on the “Sign In With Google” story, but hit a weird issue with the integration. I spent a few hours debugging it. I’m still not sure what the problem is. Can someone pair with me on this today, ideally this morning?
 
-
-# Ideal Approach
+## Ideal Approach
 
 The best approach to tackling the Standup confusion is to make a list of these kinds of problems, decide if your team has any of those problems (solved for, or not), then ensure you have good solutions for the problems your team has.
 
@@ -125,6 +121,6 @@ Almost all of these solutions reduce the number of meetings team members have. T
 - **Virtual Breaks:** Set up specific times (like Tuesdays/Thursdays from 10am - 12pm) where people can join a virtual break room call. People can hang out, work, and/or chat in that space.
     - *Why It’s Better:* Especially for remote teams, it can be easy to feel disconnected from your team. Having time specifically set aside for socializing can make it happen more smoothly.
 
-# Take Away
+## Take Away
 
 Standups are not bad, just often misapplied. Understand the problems you need solved and what the best solutions might be. If that’s a standup-style meeting, then go for it. I just don’t think it should be the default.
