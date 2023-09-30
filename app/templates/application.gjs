@@ -8,7 +8,7 @@ class MyRouteComponent extends Component {
     <header>
       <nav>
         <LinkTo @route="index">Home</LinkTo>
-        <LinkTo @route="articles">Articles</LinkTo>
+        <LinkTo @route="blog">Blog</LinkTo>
         <LinkTo @route="talks">Talks</LinkTo>
         <LinkTo @route="projects">Projects</LinkTo>
       </nav>

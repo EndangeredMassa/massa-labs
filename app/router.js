@@ -15,9 +15,9 @@ Router.map(function () {
     this.route('index', { path: '/' });
   })
 
-  this.route('articles', function() {
+  this.route('blog', function() {
     this.route('index', { path: '/' });
   });
 
-  this.route('article', { path: '/articles/:slug' });
+  this.route('article', { path: '/blog/:slug' });
 });

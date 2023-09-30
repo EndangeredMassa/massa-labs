@@ -1,20 +1,24 @@
 import Route from '@ember/routing/route';
 import articles from '../article-data';
 
-export default class ArticlesArticleRoute extends Route {
+export default class BlogRoute extends Route {
   beforeModel(transition) {
     // set the proper template
 
     let slug;
     if (transition.intent.url) {
       // direct load
-      slug = transition.intent.url.replace('/articles/', '');
+      slug = transition.intent.url.replace('/blog/', '');
     } else {
       // linked load
-      slug = transition.routeInfos[1].context.slug;
+      const info = transition.routeInfos[1];
+
+      slug = info?.context?.slug || info?.params?.slug;
     }
 
-    this.templateName = `articles.${slug}`;
+    if (slug) {
+      this.templateName = `article.${slug}`;
+    }
   }
 
   model(params) {

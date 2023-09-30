@@ -3,7 +3,7 @@ import { LinkTo } from '@ember/routing';
 <template>
   <div class="blog-item">
     <LinkTo class="post-link"
-      @route='article'
+      @route="article"
       @model={{@article}}>
         {{@article.title}}
     </LinkTo>
