@@ -5,9 +5,11 @@ import articles from '../article-data';
 export default RouteTemplate(
 <template>
   {{#each articles as |article|}}
-    <ArticleCard
-      @article={{article}}
-    />
+    {{#if article.published}}
+      <ArticleCard
+        @article={{article}}
+      />
+    {{/if}}
   {{/each}}
 </template>
 );
