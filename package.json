@@ -39,6 +39,7 @@
     "ember-qunit": "^7.0.0",
     "ember-resolver": "^11.0.1",
     "ember-route-template": "^1.0.1",
+    "ember-router-scroll": "^4.1.2",
     "ember-source": "~5.2.0",
     "ember-svg-jar": "^2.4.6",
     "ember-template-imports": "^3.4.2",
