@@ -25,8 +25,21 @@ class MyRouteComponent extends Component {
     </main>
 
     <footer>
-      <p>Thanks to <a href="https://kevquirk.com">Kev Quirk</a> for making <a href="https://simplecss.org/">Simple.css</a>, which this site is based on.</p>
+      <p>
+        Thanks to <a href="https://kevquirk.com">Kev Quirk</a>
+        for making <a href="https://simplecss.org/">Simple.css</a>,
+        which this site's design is based on.
+      </p>
     </footer>
+
+    <link rel="stylesheet" href="/assets/tomorrow-night-bright.css">
+    <script type="module">
+      import hljs from '/assets/highlight.min.js';
+      // import js from 'https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/es/languages/js.min.js';
+      // hljs.registerLanguage('js', js);
+
+      hljs.highlightAll();
+    </script>
   </template>
 
   get title() {

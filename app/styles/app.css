@@ -28,8 +28,8 @@
   }
 }
 
-a:visited {
-  color: inherit;
+a, a:visited {
+  color:var(--accent);
 }
 
 header>nav a.active {
@@ -38,6 +38,33 @@ header>nav a.active {
   cursor:pointer
 }
 
+footer a {
+  color: inherit !important;
+}
+
+pre {
+  background-color: #000;
+  border: dashed 2px var(--accent);
+  font-style: normal;
+}
+
+blockquote {
+  padding-top: 0.3rem;
+  padding-bottom: 0.6rem;
+
+  padding-left: 0.8rem;
+  padding-right: 0.8rem;
+}
+
+blockquote p:first-child {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+blockquote p:last-child {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
 
 /* Icons from: https://www.iconfinder.com/iconsets/font-awesome-brands-vol-1 */
 .icon-button {

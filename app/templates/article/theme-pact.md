@@ -106,6 +106,6 @@ I (re-)discovered that smaller iterations are better. If you are going from zero
 
 If you want to learn more about these topics, I recommend the following.
 
-- Theme System: [https://www.thethemesystem.com](https://www.thethemesystem.com/)
-- PACT Goals: [https://nesslabs.com/smart-goals-pact](https://nesslabs.com/smart-goals-pact)
-- The Power of Habit: [https://charlesduhigg.com/the-power-of-habit/](https://charlesduhigg.com/the-power-of-habit/)
+- [Theme System](https://www.thethemesystem.com/)
+- [PACT Goals](https://nesslabs.com/smart-goals-pact)
+- [The Power of Habit](https://charlesduhigg.com/the-power-of-habit/)
