@@ -10,12 +10,6 @@ This process helps convey understanding of:
 
 You can use the process [as documented by the author](https://conventionalcomments.org/), but I like using the following the following customized version.
 
-```js
-let a = 3;
-console.log(a);
-console.log('hey there');
-```
-
 ## Streamlined Conventional Comments
 
 All comments must be resolved before merging, but resolution can look different for different kinds of comments.

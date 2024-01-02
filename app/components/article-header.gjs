@@ -2,9 +2,9 @@ import { LinkTo } from '@ember/routing';
 
 <template>
   <div class="blog-item">
-    <h1>
+    <h2>
       {{@article.title}}
-    </h1>
-    <p class="meta">{{@article.date}}</p>
+    </h2>
+    <p class="meta"><i>{{@article.date}}</i></p>
   </div>
 </template>
