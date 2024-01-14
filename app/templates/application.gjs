@@ -10,7 +10,7 @@ class MyRouteComponent extends Component {
 
   <template>
     <header>
-      <h1>Massa Labs</h1>
+      <h1>Sean Massa's Labs</h1>
       <nav>
         <LinkTo @route="index">Home</LinkTo>
         <LinkTo @route="blog">Blog</LinkTo>
