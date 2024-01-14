@@ -21,15 +21,28 @@
 
   header {
     color: #FFFFFF;
+    padding-bottom: 0;
+  }
+
+  main {
+    padding-top: 0;
   }
 
   footer {
-    color: #323232;
+    color: #8a8a8a;
   }
 }
 
 a, a:visited {
   color:var(--accent);
+}
+
+header>nav {
+  padding:0;
+}
+
+header>nav .separator {
+  color: gray;
 }
 
 header>nav a.active {
