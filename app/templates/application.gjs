@@ -29,8 +29,12 @@ class MyRouteComponent extends Component {
 
     <footer>
       <div class="socials">
-        <IconButton @icon="github" @href="https://github.com/EndangeredMassa" @title="link to github.com for EndangeredMassa" />
-        <IconButton @icon="mastodon" @href="https://social.massalabs.com/@sean" @title="link to social.massalabs.com (mastodon instance) for @sean" />
+        <IconButton @icon="github"
+          @href="https://github.com/EndangeredMassa"
+          @title="link to github.com for EndangeredMassa" />
+        <IconButton @icon="mastodon"
+          @href="https://social.massalabs.com/@sean"
+          @title="link to social.massalabs.com (mastodon instance) for @sean" />
       </div>
       <p>
         Thanks to <a href="https://kevquirk.com">Kev Quirk</a>
