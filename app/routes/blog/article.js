@@ -1,5 +1,5 @@
 import Route from '@ember/routing/route';
-import articles from '../article-data';
+import articles from '../../article-data';
 
 export default class BlogRoute extends Route {
   beforeModel(transition) {
@@ -11,13 +11,13 @@ export default class BlogRoute extends Route {
       slug = transition.intent.url.replace('/blog/', '');
     } else {
       // linked load
-      const info = transition.routeInfos[1];
+      const info = transition.routeInfos[2];
 
       slug = info?.context?.slug || info?.params?.slug;
     }
 
     if (slug) {
-      this.templateName = `article.${slug}`;
+      this.templateName = `blog.article.${slug}`;
     }
   }
 

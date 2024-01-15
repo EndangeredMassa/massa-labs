@@ -16,8 +16,7 @@ Router.map(function () {
   })
 
   this.route('blog', function() {
+    this.route('article', { path: '/:slug' });
     this.route('index', { path: '/' });
   });
-
-  this.route('article', { path: '/blog/:slug' });
 });
