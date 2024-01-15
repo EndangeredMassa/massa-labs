@@ -28,7 +28,7 @@ I like this model because you control the direction and personal outputs. Succes
 
 By leveraging the power of direction, defaults, and habits, this framework makes success happen as a matter of course. Well, that's the theory.
 
-## What is a Theme?
+### What is a Theme?
 
 *This concept comes from the [Theme System](https://www.thethemesystem.com/), developed by [Myke Hurley](https://twitter.com/imyke) and [CGP Grey](https://twitter.com/cgpgrey/) through [Cortex](https://www.relay.fm/cortex).*
 
@@ -48,7 +48,7 @@ For my purposes, I decided a theme has to be:
 
 ## What is a PACT Goal?
 
-*This concept comes from [SMART goals are not so smart: make a PACT instead](https://nesslabs.com/smart-goals-pact)* by [Anne-Laure Le Cunff](https://twitter.com/neuranne) through [Ness Labs](https://twitter.com/ness_labs).
+*This concept comes from [SMART goals are not so smart: make a PACT instead](https://nesslabs.com/smart-goals-pact) by [Anne-Laure Le Cunff](https://twitter.com/neuranne) through [Ness Labs](https://twitter.com/ness_labs).*
 
 Anne-Laure defines a PACT Goal as:
 

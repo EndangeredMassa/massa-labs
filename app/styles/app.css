@@ -16,11 +16,19 @@
   /* override the width of the main content */
   grid-template-columns: 1fr min(55rem,90%) 1fr;
 
-  --bg: #000000;
+  /* --bg: #000000;
   --accent-bg: #151149;
   --text: #4FA5E4;
   --text-light: #4FA5E4;
-  --accent: #E14BC9;
+  --accent: #E14BC9; */
+
+  --bg: #000000;
+  --accent-bg: #151149;
+  /* --text: #4FA5E4; */
+  /* --text-light: #4FA5E4; */
+  --accent: #52b7dc;
+  --accent-sub2: #9caae4;
+  --accent-sub3: #be9cde;
 
   header {
     color: #FFFFFF;
@@ -36,8 +44,27 @@
   }
 }
 
+.site-title {
+  font-size: 2em;
+  font-weight: bold;
+  color: #E84CCF;
+  margin-bottom: 0.2em;
+}
+
 h1, h2, h3 {
   line-height: 1;
+}
+
+h1 {
+  color: var(--accent)
+}
+
+h2 {
+  color: var(--accent-sub2)
+}
+
+h3 {
+  color: var(--accent-sub3)
 }
 
 a, a:visited {
@@ -106,12 +133,12 @@ footer p a[href^="https://"]:after,
   TODO: move the title to not an h1, then move these styles to h1
 */
 
-.blog-item h2 a {
+.blog-item h1 a {
   font-size: 1.6rem;
 }
 
-.blog-item h2 {
-  color: var(--accent);
+.blog-item h1 {
+  /* color: var(--accent); */
   margin-bottom: 0.4rem;
   font-size: 2.6rem;
 }
@@ -125,7 +152,7 @@ footer p a[href^="https://"]:after,
   text-decoration: none;
 
   svg {
-    color: var(--text);
+    color: var(--accent);
   }
 }
 
