@@ -15,7 +15,8 @@ class MyRouteComponent extends Component {
         <LinkTo @route="index">Home</LinkTo>
         <LinkTo @route="blog">Blog</LinkTo>
         <LinkTo @route="talks">Talks</LinkTo>
-        <LinkTo @route="projects">Projects</LinkTo>
+        {{!-- TODO: Add this section later --}}
+        {{!-- <LinkTo @route="projects">Projects</LinkTo> --}}
         <span class="separator">|</span>
         <a target="_blank" href="https://social.massalabs.com/@sean">Microblog</a>
       </nav>
@@ -27,8 +28,8 @@ class MyRouteComponent extends Component {
 
     <footer>
       <div class="socials">
-        <IconButton @icon="github" @href="https://github.com/EndangeredMassa" />
-        <IconButton @icon="mastodon" @href="https://social.massalabs.com/@sean" />
+        <IconButton @icon="github" @href="https://github.com/EndangeredMassa" @title="link to github.com for EndangeredMassa" />
+        <IconButton @icon="mastodon" @href="https://social.massalabs.com/@sean" @title="link to social.massalabs.com (mastodon instance) for @sean" />
       </div>
       <p>
         Thanks to <a href="https://kevquirk.com">Kev Quirk</a>
