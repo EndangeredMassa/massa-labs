@@ -1,10 +1,15 @@
 import RouteTemplate from 'ember-route-template';
+import YoutubeLink from '../components/youtube-link';
 
 export default RouteTemplate(
 <template>
-  <ul>
-    <li><a href="https://www.youtube.com/watch?v=c5DMXsBTS0E">Strength-finding Interviews, Sean Massa, CTO @ FlashRecruit</a></li>
-    <li><a href="https://www.youtube.com/watch?v=CcSKlsc_AhQ">EmberConf 2018: MiniTalk - Contributor Rally by Sean Massa</a></li>
-  </ul>
+  <div class="link-list">
+    <YoutubeLink @id="c5DMXsBTS0E"
+      @title="Strength-finding Interviews | dojo.live"
+      @date="2020-03-25" />
+    <YoutubeLink @id="CcSKlsc_AhQ"
+      @title="Ember.js Contributor Rally | EmberConf 2018"
+      @date="2018-04-06" />
+  </div>
 </template>
 );

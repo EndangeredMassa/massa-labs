@@ -19,6 +19,7 @@ class MyRouteComponent extends Component {
         {{!-- <LinkTo @route="projects">Projects</LinkTo> --}}
         <span class="separator">|</span>
         <a target="_blank" href="https://social.massalabs.com/@sean">Microblog</a>
+        <a target="_blank" href="https://github.com/EndangeredMassa">Code</a>
       </nav>
     </header>
 
