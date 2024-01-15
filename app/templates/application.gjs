@@ -35,6 +35,9 @@ class MyRouteComponent extends Component {
         <IconButton @icon="mastodon"
           @href="https://social.massalabs.com/@sean"
           @title="link to social.massalabs.com (mastodon instance) for @sean" />
+        <IconButton @icon="linkedin"
+          @href="https://www.linkedin.com/in/sean-massa/"
+          @title="link to linkedin.com/in/sean-massa for Sean Massa" />
       </div>
       <p>
         Thanks to <a href="https://kevquirk.com">Kev Quirk</a>

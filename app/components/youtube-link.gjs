@@ -11,10 +11,10 @@ function thumbnail(youtubeID) {
 <template>
   <div class="youtube-link">
     <a target="_blank" href={{href @id}}>
-      <div class="header">
+      <h2>
         <div class="talk-title">{{@title}}</div>
         <div class="talk-date">[{{@date}}]</div>
-      </div>
+      </h2>
 
       <img src={{thumbnail @id}}>
     </a>

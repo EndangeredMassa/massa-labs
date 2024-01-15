@@ -4,6 +4,8 @@ import articles from '../../article-data';
 
 export default RouteTemplate(
 <template>
+  <h1>Sean's Blog</h1>
+
   {{#each articles as |article|}}
     {{#if article.published}}
       <ArticleCard

@@ -3,6 +3,8 @@ import YoutubeLink from '../components/youtube-link';
 
 export default RouteTemplate(
 <template>
+  <h1>Sean's Talks</h1>
+
   <div class="link-list">
     <YoutubeLink @id="c5DMXsBTS0E"
       @title="Strength-finding Interviews | dojo.live"
