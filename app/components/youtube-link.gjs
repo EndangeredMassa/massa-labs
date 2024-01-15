@@ -16,6 +16,8 @@ function thumbnail(youtubeID) {
         <div class="talk-date">{{@date}}</div>
       </div>
 
+      <hr class="accent-rule">
+
       <img src={{thumbnail @id}}>
     </a>
   </div>
