@@ -38,6 +38,9 @@ class MyRouteComponent extends Component {
         <IconButton @icon="linkedin"
           @href="https://www.linkedin.com/in/sean-massa/"
           @title="link to linkedin.com/in/sean-massa for Sean Massa" />
+        <IconButton @icon="rss"
+          @href="/feed.xml"
+          @title="link to /feed.xml for an RSS feed" />
       </div>
       <p>
         Thanks to <a href="https://kevquirk.com">Kev Quirk</a>

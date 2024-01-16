@@ -6,7 +6,7 @@ function href(youtubeID) {
 }
 
 function thumbnail(youtubeID) {
-  return `https://img.youtube.com/vi/${youtubeID}/maxresdefault.jpg`;
+  return `/assets/thumb-${youtubeID}.jpg`;
 }
 
 <template>
