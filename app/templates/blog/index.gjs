@@ -10,6 +10,7 @@ export default RouteTemplate(
     {{#if article.published}}
       <ArticleCard
         @article={{article}}
+        @level='h3'
       />
     {{/if}}
   {{/each}}
