@@ -5,7 +5,8 @@
     "test": "tests"
   },
   "scripts": {
-    "build": "ember build --environment=production",
+    "gen-rss": "node lib/generate-rss.js",
+    "build": "ember build --environment=production && npm run gen-rss",
     "start": "ember serve",
     "test": "ember test"
   },
