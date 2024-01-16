@@ -17,7 +17,9 @@ function thumbnail(youtubeID) {
         <div class="talk-date"><IconSvg @name="calendar" /> {{@date}}</div>
       </h2>
 
-      <img src={{thumbnail @id}}>
+      <p>
+        <img src={{thumbnail @id}} alt={{@alt}}>
+      </p>
     </a>
   </div>
 </template>
