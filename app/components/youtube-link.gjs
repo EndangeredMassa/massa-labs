@@ -1,4 +1,5 @@
 import { LinkTo } from '@ember/routing';
+import IconSvg from './icon-svg';
 
 function href(youtubeID) {
   return `https://www.youtube.com/watch?v=${youtubeID}`;
@@ -13,7 +14,7 @@ function thumbnail(youtubeID) {
     <a target="_blank" href={{href @id}}>
       <h2>
         <div class="talk-title">{{@title}}</div>
-        <div class="talk-date">[{{@date}}]</div>
+        <div class="talk-date"><IconSvg @name="calendar" /> {{@date}}</div>
       </h2>
 
       <img src={{thumbnail @id}}>

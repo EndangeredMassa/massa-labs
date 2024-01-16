@@ -14,6 +14,7 @@ export default RouteTemplate(
   <h2>Recent Blog Post</h2>
 
   <ArticleCard
+    @level='h3'
     @article={{mostRecentPublishedArticle}}
   />
 

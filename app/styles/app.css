@@ -53,17 +53,22 @@
 
 h1, h2, h3 {
   line-height: 1;
+  margin-bottom: 0;
 }
 
-h1 {
+h1:has(+ h2), h2:has(+ h3) {
+  margin-bottom: 0;
+}
+
+h1, h1 a, h1 a:visited {
   color: var(--accent);
 }
 
-h2 {
+h2, h2 a, h2 a:visited {
   color: var(--accent-sub2);
 }
 
-h3 {
+h3, h3 a, h3 a:visited {
   color: var(--accent-sub3);
 }
 
@@ -128,19 +133,13 @@ footer p a[href^="https://"]:after,
   padding-right: 1em; /* sizing */
 }
 
-/*
-  TODO: these h2 styles have to move up to h1 styles because of the markdown rendering
-  TODO: move the title to not an h1, then move these styles to h1
-*/
-
 .blog-item h2 a {
   font-size: 1.6rem;
-  color: var(--accent-sub2);
 }
 
-.blog-item h2 {
-  margin-bottom: 0.4rem;
-  font-size: 2.6rem;
+.blog-item h1, .blog-item h2, .blog-item h3 {
+  margin-bottom: 0;
+  margin-top: 0.7em;
 }
 
 .blog-item p {
@@ -195,6 +194,6 @@ footer p a[href^="https://"]:after,
   text-decoration: none;
 }
 
-.link-list .header .talk-date {
+.link-list h2 .talk-date {
   justify-self: end;
 }
