@@ -144,6 +144,25 @@ footer p a[href^="https://"]:after,
   padding-right: 1em; /* sizing */
 }
 
+.blog-item {
+  padding: 1em;
+}
+
+.blog-item *, .blog-item *:hover {
+  text-decoration: none;
+}
+
+.blog-item:hover {
+  background-color: #1a1a1a;
+}
+
+.blog-item .title {
+  color: var(--accent-sub2);
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
 .blog-item h1, .blog-item h2, .blog-item h3 {
   margin-bottom: 0;
   margin-top: 0.7em;
@@ -168,7 +187,7 @@ footer p a[href^="https://"]:after,
 }
 
 .meta {
-  color: var(--text-light);
+  color: var(--text);
   font-size: 1rem;
 }
 
