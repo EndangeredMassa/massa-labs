@@ -31,16 +31,16 @@
   --accent-sub3: #be9cde;
 }
 
-header {
+body > header {
   color: #FFFFFF;
   padding: 0;
 }
 
-main {
+body > main {
   padding-top: 0;
 }
 
-footer {
+body > footer {
   color: #8a8a8a;
 }
 
