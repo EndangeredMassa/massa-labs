@@ -29,19 +29,19 @@
   --accent: #52b7dc;
   --accent-sub2: #9caae4;
   --accent-sub3: #be9cde;
+}
 
-  header {
-    color: #FFFFFF;
-    padding: 0 !important;
-  }
+header {
+  color: #FFFFFF;
+  padding: 0;
+}
 
-  main {
-    padding-top: 0;
-  }
+main {
+  padding-top: 0;
+}
 
-  footer {
-    color: #8a8a8a;
-  }
+footer {
+  color: #8a8a8a;
 }
 
 .site-title {
