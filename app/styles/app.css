@@ -38,6 +38,10 @@ body > footer {
   color: #8a8a8a;
 }
 
+blockquote {
+  font-style: normal;
+}
+
 .site-title {
   font-size: 2em;
   font-weight: bold;
