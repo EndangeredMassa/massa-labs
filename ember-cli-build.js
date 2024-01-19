@@ -8,6 +8,9 @@ module.exports = function (defaults) {
     minifyCSS: {
       options: { processImport: true },
     },
+    fingerprint: {
+      enabled: false
+    },
     routerScroll: {
       scrollWhenAfterRender: false,
       scrollWhenIdle: false,

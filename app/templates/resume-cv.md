@@ -218,4 +218,3 @@ Responsibilities:
 
 - [Illinois State University (ISU)](https://illinoisstate.edu/)
 - <IconSvg @name="calendar" /> 2003 - 2007
-
