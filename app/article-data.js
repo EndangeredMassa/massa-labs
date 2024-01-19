@@ -41,6 +41,22 @@ let articles =
     "description": "The term Manager means a lot of different things to different companies. It can include Project Manager, Product Manager, Technical Lead, Team Lead, Mentor, Coach, Supervisor, as well as Individual Contributor. Most often, in my experience, a manager is responsible for at least these roles: Supervisor, Mentor, and Team Lead.<br><br>There is great value in having those roles played by separate people."
   },
   {
+    "slug": "how-to-run-strength-finding-interview",
+    "published": true,
+    "title": "How to Run Strength-finding Interviews",
+    "date": "2010-03-25",
+    "tags": ["interviews"],
+    "description": "Highlighting candidates at their best to reduce bias and gatekeeping in hiring."
+  },
+  {
+    "slug": "levels-of-web-form-libraries",
+    "published": true,
+    "title": "Levels of Web Form Libraries",
+    "date": "2020-01-21",
+    "tags": ["software-engineering"],
+    "description": "Overview of the possible kinds of web form library interfaces."
+  },
+  {
     "slug": "developers-guide-a11y",
     "published": true,
     "title": "A Developer's Guide to Better Accessibility",
