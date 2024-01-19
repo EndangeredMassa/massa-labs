@@ -69,7 +69,6 @@ export default RouteTemplate(
   <h2>Organized by Sean</h2>
 
   <div class="link-list">
-
     <PlaylistLink @id="749026"
       @source="vimeo"
       @title="Geekfest Chicago Meetup at Groupon"
