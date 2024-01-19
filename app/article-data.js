@@ -40,7 +40,7 @@ let articles =
     "published": true,
     "title": "A Developer's Guide to Better Accessibility",
     "date": "2017-12-07",
-    "description": "Melanie Sumner and I wrote about the <a href=\"https://www.24a11y.com/2017/a-developers-guide-to-better-accessibility/\">Six Pillars of Accessibility</a> as a structured guide for developers to move the needle on accessibility."
+    "description": "Melanie Sumner and I wrote about the \"Six Pillars of Accessibility\" as a structured guide for developers to move the needle on accessibility."
   },
   {
     "slug": "how-to-start-linting-projects",

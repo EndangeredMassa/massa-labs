@@ -11,7 +11,7 @@ import Heading from './x-heading';
 
         <Heading @level={{@level}} class="title">{{@article.title}}</Heading>
         <p class="meta"><IconSvg @name="calendar" /> <i>{{@article.date}}</i></p>
-        <p class="meta">{{{@article.description}}}</p>
+        <div class="meta">{{{@article.description}}}</div>
     </LinkTo>
   </div>
 </template>
