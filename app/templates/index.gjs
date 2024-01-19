@@ -28,7 +28,7 @@ export default RouteTemplate(
   <ul>
     <li>supporter of diversity and inclusion</li>
     <li>enthusiast of organizational structures</li>
-    <li>software engineer with well over a decade of experience spanning .NET, Ruby/Rails, front-end javascript, Node.js, and various databases.</li>
+    <li>software engineer with well over a decade of experience spanning .NET, Ruby/Rails, front-end javascript, Node.js, and various databases</li>
     <li>community organizer of meetups, hackathons, and conferences</li>
   </ul>
   <p>
