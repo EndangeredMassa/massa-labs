@@ -44,7 +44,7 @@ let articles =
     "slug": "how-to-run-strength-finding-interview",
     "published": true,
     "title": "How to Run Strength-finding Interviews",
-    "date": "2010-03-25",
+    "date": "2020-03-25",
     "tags": ["interviews"],
     "description": "Highlighting candidates at their best to reduce bias and gatekeeping in hiring."
   },

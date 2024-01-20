@@ -115,6 +115,19 @@ pre {
   background-color: #000;
   border: dashed 2px var(--accent);
   font-style: normal;
+  margin: 1em 2em;
+}
+
+details {
+  background-color: inherit;
+}
+
+details > *:not(summary) {
+  margin-left: 1.2rem;
+}
+
+details > summary {
+  background-color: var(--accent-bg);
 }
 
 blockquote {
@@ -133,6 +146,10 @@ blockquote p:first-child {
 blockquote p:last-child {
   padding-bottom: 0;
   margin-bottom: 0;
+}
+
+table {
+  margin: 0 2rem;
 }
 
 th {
@@ -232,4 +249,9 @@ footer p a[href^="https://"]:after,
 
 .link-list .talk-date {
   justify-self: end;
+}
+
+.indent {
+  margin-left: 2em;
+  margin-right: 2em;
 }

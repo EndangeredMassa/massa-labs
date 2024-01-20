@@ -18,24 +18,28 @@ All comments are also non-blocking unless otherwise specified.
 
 ### Format
 
+By following this format, the intention is clear whether or not the reader has seen this before.
+
 ```
 <label> ([blocking-status]): <subject>
 
 [details]
 ```
 
-- label: this is a single label that signifies what kind of comment (see above) is being left:
+Part definitions:
+
+- **label:** this is a single label that signifies what kind of comment (see above) is being left:
     - question
     - suggestion
     - convention
     - requirement
-- blocking-status (optional)
+- **blocking-status** (optional)
     - (blank): does not block merging
     - non-blocking: does not block merging
     - soft-blocking: does not block merging, but the comment should be resolved in a follow-up code change
     - blocking: blocks merging
-- subject: brief and explicit description, no need for padded language
-- details (optional): the context, reasoning, and conversational messaging
+- **subject:** brief and explicit description, no need for padded language
+- **details** (optional): the context, reasoning, and conversational messaging
 
 ## Examples
 
