@@ -159,7 +159,7 @@ footer p a[href^="https://"]:after,
 }
 
 .blog-item {
-  padding: 1em;
+  padding: 1em 0;
 }
 
 .blog-item *, .blog-item *:hover {
@@ -215,7 +215,7 @@ footer p a[href^="https://"]:after,
 }
 
 .link-list>div {
-  padding: 4px 12px;
+  padding: 4px 0;
 }
 
 .link-list h2, .link-list h3 {
