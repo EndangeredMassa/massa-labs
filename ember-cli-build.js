@@ -17,6 +17,11 @@ module.exports = function (defaults) {
     },
     prember: {
       urls: scanDir
+    },
+    'markdown-it-templates': {
+      options: {
+        quotes: '""\'\''
+      }
     }
   });
 
