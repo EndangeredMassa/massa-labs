@@ -20,7 +20,13 @@ module.exports = function (defaults) {
     },
     'markdown-it-templates': {
       options: {
-        quotes: '""\'\''
+        // default
+        linkify: true,
+        html: true,
+
+        // overrides
+        typographer: false,
+        quotes: '""\'\'',
       }
     }
   });
