@@ -24,7 +24,7 @@ James Clear (of [Atomic Habits](https://jamesclear.com/atomic-habits) fame) real
 > You do not rise to the level of your goals, you fall to the level of your systems.
 > 
 
-I like this model because you control the direction and personal outputs. Success is therefore under your control. You won’t fail because of external forces made your original goals impossible.
+I like this model because you control the direction and personal outputs. Success is therefore under your control. You won't fail because of external forces made your original goals impossible.
 
 By leveraging the power of direction, defaults, and habits, this framework makes success happen as a matter of course. Well, that's the theory.
 
@@ -98,7 +98,7 @@ Steps:
 
 ## Outcomes
 
-My first stab at this was too much all at once. I did form some useful habits around my theme, but I couldn’t keep up with everything I tried to do. 
+My first stab at this was too much all at once. I did form some useful habits around my theme, but I couldn't keep up with everything I tried to do. 
 
 I (re-)discovered that smaller iterations are better. If you are going from zero to Theme Pact, I suggest iteratively adding pieces until you are comfortable with a given piece. To start, define a theme OR work on forming one good habit OR work on breaking one bad habit.
 

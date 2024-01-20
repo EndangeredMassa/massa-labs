@@ -30,7 +30,7 @@ There are different types of Code Reviews comments:
 - **Conventions** are project- or team-based rules to follow. They work best if they are automatically enforceable. That way, no human has to comment about these issues.
 - **Requirements** are what needs to be done for the code to accomplish its purpose. The code change must meet its requirements.
 
-**Question Comments**
+### Question Comments
 
 Sometimes you need more context. Question Comments are a great place to ask for more information because others may have the same question and/or the answer may add context that other reviewers can use.
 
@@ -38,37 +38,37 @@ When asking questions, make it clear how important it is to get an answer. You m
 
 *Blocking?* If you need to know the answer because you consider the code change to meet the requirements, block merging. Otherwise, do not block merging.
 
-**Preference Comments**
+### Preference Comments
 
-There’s a time and place for discussing preferences in a codebase, but that’s not during Code Review. When reviewing code, focus on correctness instead.
+There's a time and place for discussing preferences in a codebase, but that's not during Code Review. When reviewing code, focus on correctness instead.
 
 When you want to discuss code preferences, bring it up during existing team meetings or schedule a new meeting to discuss this.
 
-All of these are preferences, not facts about what’s best, in most programming languages:
+All of these are preferences, not facts about what's best, in most programming languages:
 
 - where to put optional spaces before/after other syntax
 - indentation value (tabs/2-space/4-space)
-- anything else that’s not pointing out a failure to meet a Convention or Requirement
+- anything else that's not pointing out a failure to meet a Convention or Requirement
 
 *Blocking?* If you insist on commenting with a preference, it should never block merging the code change.
 
-**Suggestion Comments**
+### Suggestion Comments
 
-When the code change meets the requirements, but it could do so *better* in some way, you can comment with a suggestion. If the code change meets the requirements in theory, but in practice there will still be significant problems, then it’s still a Requirements Comment.
+When the code change meets the requirements, but it could do so *better* in some way, you can comment with a suggestion. If the code change meets the requirements in theory, but in practice there will still be significant problems, then it's still a Requirements Comment.
 
-All Suggestion Comments should clearly describe what the suggested code change is, why it’s better, and why it might be worse.
+All Suggestion Comments should clearly describe what the suggested code change is, why it's better, and why it might be worse.
 
-This is the fuzziest type of comment because complexity and human judgement creep in. You could suggest a code change because the original code would be slow (for a certain definition) and the suggested change is faster. But maybe that code is only ever run on a handful of items in a place where some delay would be fine, anyway. Is it worth making the code faster? Is the faster code harder to read? Maybe we’re not making the right tradeoff in this case.
+This is the fuzziest type of comment because complexity and human judgement creep in. You could suggest a code change because the original code would be slow (for a certain definition) and the suggested change is faster. But maybe that code is only ever run on a handful of items in a place where some delay would be fine, anyway. Is it worth making the code faster? Is the faster code harder to read? Maybe we're not making the right tradeoff in this case.
 
 Be mindful of the pros and cons of each approach when making Suggestion Comments.
 
 *Blocking?* If the suggestion is an alternative approach that is debatably better, do not block merging. If the suggested code change is significantly better (in your opinion), recommend that they adopt it now or submit a new code change immediately after.
 
-**Convention Comments**
+### Convention Comments
 
 There are authoring rules that programmers should follow when working in a given codebase that are based on (1) what currently exists in that codebase and (2) agreed-upon rules of the team that owns that codebase.
 
-As many of these as possible should be automatically enforced in the CI test suite. These tests should be runnable in local development environments as well. Ideally, these are also checked in real-time in the dev’s editor. Linting is the most common example of automating this, but it can include performance tests, generative tests, and more.
+As many of these as possible should be automatically enforced in the CI test suite. These tests should be runnable in local development environments as well. Ideally, these are also checked in real-time in the dev's editor. Linting is the most common example of automating this, but it can include performance tests, generative tests, and more.
 
 Not all conventions will be automatable. These are often related to naming variables and functions.
 
@@ -78,7 +78,7 @@ Preferences can become Conventions after discussing the issue with the team. The
 
 *Blocking?* If you are commenting about a failure to meet a Convention, it should rarely block merging the code change. You can recommended they submit a new code change immediately after to remedy the convention violation.
 
-**Requirements Comments**
+### Requirements Comments
 
 There are absolute requirements for a given task for which a code change is made. The code change must fulfill those requirements without introducing new bugs.
 
@@ -86,7 +86,7 @@ If the code change meets the requirements in theory, but in practice there will 
 
 *Blocking?* Failure to meet requirements or introducing new bugs are the only guaranteed way to block a code change from being merged.
 
-**Flexibility**
+### Flexibility
 
 This structure gives you a shared set of language and expectations to make code review a more efficient process.
 
@@ -99,7 +99,7 @@ This model gives you the tools to consume and express code review comments more 
 The type of comment (Question, Preference, Convention, Suggestion, or Requirement) should lead to whether or not resolution of that comment should block merging the code change:
 
 - Question: non-blocking or blocking; depends on context
-- Preference: non-blocking; don’t comment with this unless you can’t help yourself
+- Preference: non-blocking; don't comment with this unless you can't help yourself
 - Suggestion: non-blocking or soft-blocking
 - Convention: soft-blocking
 - Requirement: blocking

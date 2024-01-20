@@ -19,7 +19,7 @@ The core argument follows. The most important parts are bold.
     * of when you are playing a specific role
     * to assess yourself in each role
 
-*Note that everything I say here has been exhaustively experienced, internalized, and formalized with [Trek Glowacki](https://twitter.com/trek/).*
+*Note that everything I say here has been exhaustively experienced, internalized, and formalized with [Trek Glowacki](https://mastodon.social/@trek).*
 
 ---
 
@@ -87,7 +87,7 @@ Performance Review itself is a topic for another day. The import part here is th
 
 For me:
 
-- @[endangeredmassa](https://twitter.com/endangeredmassa)
+- [@sean@social.massalabs.com](https://social.massalabs.com/@sean)
 
 For you:
 

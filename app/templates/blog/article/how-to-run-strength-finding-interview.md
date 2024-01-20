@@ -1,9 +1,10 @@
+<ArticleHeader @article={{this.model}} />
 
 *I was on DojoLIVE! to discuss [Strength-finding Interviews](https://www.youtube.com/watch?v=c5DMXsBTS0E). Check it out!*
 
 ---
 
-In an effort to highlight candidates at their best, [Trek](https://dev.to/trek) and I have been running Strength-finding Interviews over the past few years. Over the course of 2 companies, 94 phone screens, 27 interviews, 14 offers, and 9 hires we've refined this approach into something that increases our confidence in no-hires and success in yes-hires. Approximately half of the candidates provided unsolicited positive feedback about the process, even when they were not made an offer.
+In an effort to highlight candidates at their best, [Trek](https://mastodon.social/@trek) and I have been running Strength-finding Interviews over the past few years. Over the course of 2 companies, 94 phone screens, 27 interviews, 14 offers, and 9 hires we've refined this approach into something that increases our confidence in no-hires and success in yes-hires. Approximately half of the candidates provided unsolicited positive feedback about the process, even when they were not made an offer.
 
 The key difference between a Strength-finding Interview and traditional interviews is that the interview format is customized per candidate to assess their individual strengths. You can still maintain consistency of assessment by making sure strengths are always tested in the same way and that certain core strengths are always tested.
 
@@ -239,7 +240,7 @@ Let's set up an interview that highlights the candidate's "API Design" and "Test
 >
 > *Strength: "Designed and implemented APIs in Node.js"*
 >
-> We’ll take a page from our system and talk through how we’d go about architecting the API of it from scratch. We’ll dig into general strategy, URL schemes, wire formats, resource relationships, data backing, performance monitoring and optimization, and wherever else you have related skill.
+> We'll take a page from our system and talk through how we'd go about architecting the API of it from scratch. We'll dig into general strategy, URL schemes, wire formats, resource relationships, data backing, performance monitoring and optimization, and wherever else you have related skill.
 >
 > **Collaborate: Refactoring and Testing**
 >
@@ -249,7 +250,7 @@ Let's set up an interview that highlights the candidate's "API Design" and "Test
 >
 > **Two-directional Q&A**
 >
-> We’ll take this time to ask more specific questions about each other.
+> We'll take this time to ask more specific questions about each other.
 >
 > **Summary**
 >
@@ -302,9 +303,9 @@ Below are the modules we're going to run along with the skills we can capture si
 
 You may be able to imagine how we take that scorecard through to the execution of the interview, but either way, there will be future posts in this series that cover the rest of the process.
 
-I hope you found Strength-finding Interviews useful. This is the result of research, experimentation, and iteration across years of work, quite often in collaboration with [Trek](https://dev.to/trek). You can read [Trek's earlier take](https://medium.com/@trek/tired-engineering-interviews-hired-engineering-auditions-5f9f00147a57) on this format, as well.
+I hope you found Strength-finding Interviews useful. This is the result of research, experimentation, and iteration across years of work, quite often in collaboration with [Trek](https://mastodon.social/@trek). You can read [Trek's earlier take](https://medium.com/@trek/tired-engineering-interviews-hired-engineering-auditions-5f9f00147a57) on this format, as well.
 
-I consider this to be an evolving process. If you have questions or feedback, please let me know! Please send it to [@endangeredmassa](https://twitter.com/endangeredmassa), [endangeredmassa@gmail.com](mailto:endangeredmassa@gmail.com), or comment below!
+I consider this to be an evolving process. If you have questions or feedback, please let me know! Please send it to [@sean@social.massalabs.com](https://social.massalabs.com/@sean), [endangeredmassa@gmail.com](mailto:endangeredmassa@gmail.com), or comment below!
 
 
 ## Related Resources

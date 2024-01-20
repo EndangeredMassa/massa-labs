@@ -44,7 +44,11 @@ Project Management:
 - <IconSvg @name="calendar" /> Jul 2018 - Jan 2021
 - Acquired <IconSvg @name="calendar" /> Jan 2021
 
-<b>Recruiting:</b> Defined roles, sourced candidates, developed interview process, interviewed candidates, hired, and let people go as needed. See process details: https://dev.to/endangeredmassa/how-to-run-strength-finding-interviews-2m3g
+<b>Recruiting:</b> Defined roles, sourced candidates, developed interview process, interviewed candidates, hired, and let people go as needed. <LinkTo
+  @route="blog.article"
+  @model="how-to-run-strength-finding-interview">
+  See process details.
+</LinkTo>
 
 <b>Project Management:</b> Defined project management process for the team. Lead most projects. Tracked progress. Broke tasks down to the smallest, deployable, valuable thing. Sponsored others in leading projects.
 

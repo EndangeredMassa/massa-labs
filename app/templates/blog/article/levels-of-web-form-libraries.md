@@ -1,4 +1,4 @@
-# Levels of Web Form Libraries
+<ArticleHeader @article={{this.model}} />
 
 This is a distillation and iteration on discussions happening in the Ember.js community around how web form libraries should work.
 
@@ -415,7 +415,7 @@ Obviously, everything above is still being discussed. Below are specific questio
 As I said at the top, this is a summarization and expansion on an ongoing conversation in the Ember community. These ideas should not be wholly attributed to me. You'll find many of them came from the following people, and probably others, in no particular order:
 
 - [Preston Sego](https://twitter.com/nullvoxpopuli)
-- [Trek Glowacki](https://twitter.com/trek)
+- [Trek Glowacki](https://mastodon.social/@trek)
 - [Chris Krycho](https://v4.chriskrycho.com/)
 - [Frédéric Soumaré](https://github.com/hakilebara)
 - [Ben Demboski](https://twitter.com/bendemboski)

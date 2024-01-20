@@ -60,7 +60,7 @@ All comments are also non-blocking unless otherwise specified.
 > 
 > Our convention for database column names says that dates should end in `_at`.
 > 
-> I marked this as “blocking” because migrations are expensive and risky in this database. We should minimize the number of migrations where possible.
+> I marked this as "blocking" because migrations are expensive and risky in this database. We should minimize the number of migrations where possible.
 
 > **requirement (blocking):** invert conditional `if (found)` should be `if (!found)`
 > 

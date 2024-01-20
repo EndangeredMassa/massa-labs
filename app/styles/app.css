@@ -135,6 +135,14 @@ blockquote p:last-child {
   margin-bottom: 0;
 }
 
+th {
+  white-space: nowrap;
+}
+
+tr:nth-child(2n) {
+  background-color: inherit;
+}
+
 header a[href^="http://"]:after,
 header a[href^="https://"]:after,
 footer p a[href^="http://"]:after,
