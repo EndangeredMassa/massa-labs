@@ -22,15 +22,23 @@ Pulling from several sources, my framework for goal setting includes:
 James Clear (of [Atomic Habits](https://jamesclear.com/atomic-habits) fame) really summarizes the framework compared to traditional approaches.
 
 > You do not rise to the level of your goals, you fall to the level of your systems.
-> 
 
 I like this model because you control the direction and personal outputs. Success is therefore under your control. You won't fail because of external forces made your original goals impossible.
 
 By leveraging the power of direction, defaults, and habits, this framework makes success happen as a matter of course. Well, that's the theory.
 
-### What is a Theme?
+## What is a Theme?
 
-*This concept comes from the [Theme System](https://www.thethemesystem.com/), developed by [Myke Hurley](https://twitter.com/imyke) and [CGP Grey](https://twitter.com/cgpgrey/) through [Cortex](https://www.relay.fm/cortex).*
+<CallOut @type="info" @title="Concept Reference">
+  This concept comes from the
+  <a href="https://www.thethemesystem.com/">Theme System</a>,
+  developed by
+  <a href="https://twitter.com/imyke">Myke Hurley</a>
+  and
+  <a href="https://twitter.com/cgpgrey">CGP Grey</a>
+  through
+  <a href="https://www.relay.fm/cortex">Cortex</a>
+</CallOut>
 
 Myke and CGP Grey define the Theme System in intentionally vague terms. They want users to use their framework to build a more specific system for themselves.
 
@@ -48,7 +56,14 @@ For my purposes, I decided a theme has to be:
 
 ## What is a PACT Goal?
 
-*This concept comes from [SMART goals are not so smart: make a PACT instead](https://nesslabs.com/smart-goals-pact) by [Anne-Laure Le Cunff](https://twitter.com/neuranne) through [Ness Labs](https://twitter.com/ness_labs).*
+<CallOut @type="info" @title="Concept Reference">
+  This concept comes from
+  <a href="https://nesslabs.com/smart-goals-pact">SMART goals are not so smart: make a PACT instead</a>
+  by
+  <a href="https://twitter.com/neuranne">Anne-Laure Le Cunff</a>
+  through
+  <a href="https://twitter.com/ness_labs">Ness Labs</a>.
+</CallOut>
 
 Anne-Laure defines a PACT Goal as:
 
@@ -68,7 +83,12 @@ I extend this further to include:
 
 ## What is a Habit?
 
-*This concept comes from [Atomic Habits](https://jamesclear.com/atomic-habits)* by [James Clear](https://jamesclear.com/).
+<CallOut @type="info" @title="Concept Reference">
+  This concept comes from
+  <a href="https://jamesclear.com/atomic-habits">Atomic Habits</a>
+  by
+  <a href="https://jamesclear.com">James Clear</a>.
+</CallOut>
 
 James defines a habit as:
 
