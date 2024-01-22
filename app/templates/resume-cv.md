@@ -7,6 +7,8 @@
 - [Vercel](https://vercel.com/)
 - <IconSvg @name="calendar" /> Jan 2022 - Present
 
+Current! I'll flesh this out in the future.
+
 
 ### Technical Lead / Senior Software Engineer
 
