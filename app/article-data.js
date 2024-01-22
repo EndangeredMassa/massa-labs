@@ -1,6 +1,14 @@
 let articles =
 [
   {
+    "slug": "updating-npm-packages",
+    "published": false,
+    "title": "Updating npm Packages With Certainty",
+    "date": "2024-01-22",
+    "tags": ["software-engineering"],
+    "description": "To find the best options for the installing/updating in all circumstances, I tested it locally and globally for [npm](https://docs.npmjs.com/cli/v6/commands/npm-install), [yarn](https://classic.yarnpkg.com/en/docs/cli/add), and [pnpm](https://pnpm.io/cli/install)."
+  },
+  {
     "slug": "theme-pact",
     "published": true,
     "title": "Theme Pact: Goal Setting Framework with no Goals",
