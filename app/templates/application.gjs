@@ -1,15 +1,17 @@
 import RouteTemplate from 'ember-route-template';
 import { LinkTo } from '@ember/routing';
 import IconButton from '../components/icon-button';
-import Component from "@glimmer/component";
+import Component from '@glimmer/component';
+import { inject as service } from '@ember/service';
+import { action } from '@ember/object';
 
 class MyRouteComponent extends Component {
-  get title() {
-    return window.location.pathname.split('/')[1];
-  }
+  @service headTitle;
 
   <template>
     <header>
+      {{this.headTitle.assign 'WAT'}}
+
       <div class="site-title">Sean Massa's Labs</div>
       <nav>
         <LinkTo @route="index">Home</LinkTo>
