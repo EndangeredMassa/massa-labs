@@ -36,6 +36,7 @@ class MyRouteComponent extends Component {
           @href="https://github.com/EndangeredMassa"
           @title="link to github.com for EndangeredMassa" />
         <IconButton @icon="mastodon"
+          rel="me"
           @href="https://social.massalabs.com/@sean"
           @title="link to social.massalabs.com (mastodon instance) for @sean" />
         <IconButton @icon="linkedin"
@@ -53,13 +54,6 @@ class MyRouteComponent extends Component {
     </footer>
 
     <link rel="stylesheet" href="/assets/tomorrow-night-bright.css">
-    <script type="module">
-      import hljs from '/assets/highlight.min.js';
-      // import js from 'https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/es/languages/js.min.js';
-      // hljs.registerLanguage('js', js);
-
-      hljs.highlightAll();
-    </script>
   </template>
 }
 

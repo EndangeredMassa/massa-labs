@@ -9,7 +9,7 @@ import Heading from './x-heading';
       @route="blog.article"
       @model={{@article}}>
 
-        <Heading @level={{@level}} class="title">{{@article.title}}</Heading>
+        <Heading @level={{@level}} class="title">{{{@article.title}}}</Heading>
         <p class="meta"><IconSvg @name="calendar" /> <i>{{@article.date}}</i></p>
         <div class="meta">{{{@article.description}}}</div>
     </LinkTo>

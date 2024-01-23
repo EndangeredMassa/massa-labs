@@ -7,6 +7,8 @@
 - [Vercel](https://vercel.com/)
 - <IconSvg @name="calendar" /> Jan 2022 - Present
 
+Current! I'll flesh this out in the future.
+
 
 ### Technical Lead / Senior Software Engineer
 
@@ -170,7 +172,7 @@ Responsibilities:
 ### Web Software Engineer
 
 - [Heitman](https://www.heitman.com/)
-- <IconSvg @name="calendar" /> Apr 2007 - Apr 200
+- <IconSvg @name="calendar" /> Apr 2007 - Apr 2009
 
 Responsibilities:
 
