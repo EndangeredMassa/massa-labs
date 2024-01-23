@@ -1,6 +1,8 @@
 <ArticleHeader @article={{this.model}} />
 
-To find the best options for the installing/updating in all circumstances, I tested it locally and globally for [npm](https://docs.npmjs.com/cli/v6/commands/npm-install), [yarn](https://classic.yarnpkg.com/en/docs/cli/add), and [pnpm](https://pnpm.io/cli/install).
+
+
+To find the best options for the installing/updating Node.js packages in all circumstances, I tested it locally and globally for [npm](https://docs.npmjs.com/cli/v6/commands/npm-install), [yarn 1](https://classic.yarnpkg.com/en/docs/cli/add), and [pnpm](https://pnpm.io/cli/install).
 
 ## Testing
 

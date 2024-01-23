@@ -2,7 +2,7 @@ let articles =
 [
   {
     "slug": "updating-npm-packages",
-    "published": false,
+    "published": true,
     "title": "Updating npm Packages With Certainty",
     "date": "2024-01-22",
     "tags": ["software-engineering"],

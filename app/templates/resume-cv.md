@@ -172,7 +172,7 @@ Responsibilities:
 ### Web Software Engineer
 
 - [Heitman](https://www.heitman.com/)
-- <IconSvg @name="calendar" /> Apr 2007 - Apr 200
+- <IconSvg @name="calendar" /> Apr 2007 - Apr 2009
 
 Responsibilities:
 
