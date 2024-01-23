@@ -9,9 +9,9 @@ class MyRouteComponent extends Component {
   @service headTitle;
 
   <template>
-    <header>
-      {{this.headTitle.assign 'WAT'}}
+    {{this.headTitle.assign "TOP"}}
 
+    <header>
       <div class="site-title">Sean Massa's Labs</div>
       <nav>
         <LinkTo @route="index">Home</LinkTo>
