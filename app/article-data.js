@@ -1,12 +1,20 @@
 let articles =
 [
   {
+    "slug": "prefer-null-or-undefined-in-javascript",
+    "published": false,
+    "title": "Should we prefer <code>null</code> or <code>undefined</code> in JavaScript?",
+    "date": "2024-01-23",
+    "tags": ["software-engineering"],
+    "description": "JavaScript has two empty values where most languages have one and some have zero: <code>null</code> and <code>undefined</code>. Should we prefer one over the other?"
+  },
+  {
     "slug": "updating-npm-packages",
     "published": true,
     "title": "Updating <code>npm</code> Packages With Certainty",
     "date": "2024-01-22",
     "tags": ["software-engineering"],
-    "description": "To find the best options for the installing/updating in all circumstances, I tested it locally and globally for [npm](https://docs.npmjs.com/cli/v6/commands/npm-install), [yarn](https://classic.yarnpkg.com/en/docs/cli/add), and [pnpm](https://pnpm.io/cli/install)."
+    "description": "To find the best options for the installing/updating in all circumstances, I tested it locally and globally for <a href=\"https://docs.npmjs.com/cli/v6/commands/npm-install\">npm</a>, <a href=\"https://classic.yarnpkg.com/en/docs/cli/add\">yarn</a>, and <a href=\"https://pnpm.io/cli/install\">pnpm."
   },
   {
     "slug": "theme-pact",
