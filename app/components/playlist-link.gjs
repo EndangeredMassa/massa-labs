@@ -24,7 +24,7 @@ function thumbnail(playlistID) {
         <div class="talk-date"><IconSvg @name="calendar" /> {{@date}}</div>
       </h3>
 
-      <p>
+      <p class="thumbnail">
         <img src={{thumbnail @id}} alt={{@alt}}>
       </p>
     </a>
