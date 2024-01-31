@@ -9,7 +9,7 @@ Spoiler: `vitest` wins.
 
 ## Context
 
-Recent Jest issues 've Iencountered:
+Recent Jest issues I've Iencountered:
 
 - [failing beforeAll() causes even passing tests in the scope to fail #6695](https://github.com/facebook/jest/issues/6695)
 - [Jest should fail fast and exit early (change request for --bail) #6527](https://github.com/facebook/jest/issues/6527)
