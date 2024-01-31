@@ -24,7 +24,7 @@ Test runner libraries under consideration:
 - `node:test` ([docs](https://nodejs.org/api/test.html))
 
 
-## Requirements and Nice to Haves
+## Features
 
 Requirements:
 
