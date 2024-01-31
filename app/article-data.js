@@ -1,8 +1,16 @@
 let articles =
 [
   {
+    "slug": "comparing-test-runners",
+    "published": true,
+    "title": "Comparing: JavaScript Test Runners",
+    "date": "2024-01-31",
+    "tags": ["software-engineering"],
+    "description": "Deciding on a JavaScript test runner based on required features and maturity."
+  },
+  {
     "slug": "prefer-null-or-undefined-in-javascript",
-    "published": false,
+    "published": true,
     "title": "Should we prefer <code>null</code> or <code>undefined</code> in JavaScript?",
     "date": "2024-01-23",
     "tags": ["software-engineering"],

@@ -248,6 +248,15 @@ footer p a[href^="https://"]:after,
   text-decoration: none;
 }
 
+.video-link .thumbnail {
+  display: flex;
+  justify-content: center;
+}
+
+.video-link .thumbnail img {
+  height: 400px;
+}
+
 .link-list .talk-date {
   justify-self: end;
 }

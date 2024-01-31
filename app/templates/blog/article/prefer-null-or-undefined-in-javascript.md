@@ -1,22 +1,15 @@
 <ArticleHeader @article={{this.model}} />
 
-JavaScript has two empty values where most languages have one and some have zero: `null` and `undefined`.
+JavaScript has two empty values where most languages have one (and some have zero!): `null` and `undefined`.
 
-There certainly can be uses for more than one (like unknown empty vs known empty) and accommodations for this (like type coercion of falsey values). However, it adds complexity to learning the base languages, runtimes, and libraries.
+There certainly can be uses for more than one (like unknown empty vs known empty) and accommodations for this (like type coercion of falsey values). However, it adds complexity to using the base languages, runtimes, and libraries.
 
 In an attempt to mitigate the complexity, I’ve long preferred to use `null` because it follows a “known empty” convention, which is more explicit. After digging into this in much more detail, my position has changed.
 
-In the context of setting a linting requirement for a project, we have a few options:
 
-1. Do Nothing: anyone can use `null` or `undefined` as they see fit
-2. Prefer `null`: promote the use of `null` everywhere possible, but do not require it
-3. Prefer `undefined`: promote the use of `undefined` everywhere possible, but do not require it
-4. Require `null`: lint away all uses of `undefined`; work around any issues
-5. Require `undefined`: lint away all uses of `null`; work around any issues
+### Research
 
-### In Theory
-
-I think it's fair to say that the language didn't need these two similar concepts. We can certainly find specific cases where the distinction between them is *meaningful*, but in the end, I don't think it's often very *useful*. However, what's done is done and we need to find a path forward.
+I read through many posts and historical references about why we have two values, the intent behind that, and the practicality of working with them today.
 
 I found [octogonz's reasoning](https://github.com/eslint/eslint/issues/12177) to be the most concise and compelling:
 
@@ -29,7 +22,7 @@ I found [octogonz's reasoning](https://github.com/eslint/eslint/issues/12177) to
 > In JavaScript, the undefined value fulfills roles (1), (2) and (3). JavaScript's null value is a redundant secondary token that can only be used for (3)
 > 
 
-[sindresorhus's argument](https://github.com/sindresorhus/meta/discussions/7) also mentioned that default parameters only work with `undefined`:
+And [sindresorhus's argument](https://github.com/sindresorhus/meta/discussions/7) added that default parameters only work with `undefined`:
 
 ```
 function multiply(a = 1, b = 2) {
@@ -40,9 +33,28 @@ console.log(multiply(undefined, 3));
 // 3
 ```
 
-This had me convinced that in theory, `undefined` is the true null-style value of the language and `null` is the weird one out.
+The use of `null` is largely a sentinel value to mean "known empty".
 
-I think this is the theoretical ideal decision is to "(5) Require `undefined`".
+
+### Options
+
+In the context of setting a linting requirement for a project, we have a few options:
+
+1. Do Nothing: anyone can use `null` or `undefined` as they see fit
+2. Prefer `null`: promote the use of `null` everywhere possible, but do not require it
+3. Prefer `undefined`: promote the use of `undefined` everywhere possible, but do not require it
+4. Require `null`: lint away all uses of `undefined`; work around any issues
+5. Require `undefined`: lint away all uses of `null`; work around any issues
+
+
+### In Theory
+
+I think it's fair to say that the language didn't need these two similar concepts. We can certainly find specific cases where the distinction between them is *meaningful*, but in the end, I don't think it's often very *useful*.
+
+Given how the language (and its programmers) treats these values, `undefined` is the true empty value of the language and `null` is the weird one out.
+
+The theoretical ideal decision is therefore "(5) Require `undefined`".
+
 
 ### In Practice
 
@@ -55,7 +67,8 @@ In practice, however, there are problems. Removing `null` means:
   - Node.js core library
   - npm package ecosystem
 
-Then, developer education needs to be produced to explain the why, what, and how of it all. And it needs to be convincing.
+Developer education would also need to be produced for the team to explain the why, what, and how of it all.
+
 
 ### My Preference
 
