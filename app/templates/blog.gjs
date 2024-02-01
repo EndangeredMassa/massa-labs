@@ -1,9 +1,12 @@
 import RouteTemplate from 'ember-route-template';
+import Component from '@glimmer/component';
 
-export default RouteTemplate(
-<template>
-  <div class="blog">
-    {{outlet}}
-  </div>
-</template>
-);
+class BlogRouteComponent extends Component {
+  <template>
+    <div class="blog">
+      {{outlet}}
+    </div>
+  </template>
+}
+
+export default RouteTemplate(BlogRouteComponent);

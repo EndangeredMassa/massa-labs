@@ -27,7 +27,6 @@ export default class ApplicationRoute extends Route {
       run(() => {
         scheduleOnce('afterRender', this, () => {
           setTimeout(() => {
-            console.log('highlighting!');
             hljs.highlightAll();
           }, 100);
 
