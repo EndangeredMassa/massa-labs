@@ -1,24 +1,6 @@
 <ArticleHeader @article={{this.model}} />
 
-This is a distillation and iteration on discussions happening in the Ember.js community around how web form libraries should work.
-
-## Form Use Cases
-
-I think it's useful to start with use cases that can guide us on the journey.
-
-The book "Form Design Patterns" by Adam Silver covers 10 examples of forms. Those cover a lot of ground and therefore may serve a set of use cases against which the form solution can be checked.
-https://www.smashingmagazine.com/2018/10/form-design-patterns-release/
-
-- registration form
-- checkout form
-- flight booking form
-- login form
-- inbox
-- search form
-- filter form
-- upload form
-- expense form
-- long and complicated form
+This is a distillation and iteration on discussions happening in the Ember.js community around how web form libraries should work. Examples use Ember.js, but the concepts apply generally.
 
 
 ## API Requirements
@@ -397,8 +379,6 @@ We could then enforce the `form.register` requirement with a linting rule.
 ```
 
 The linter would fail on the `input` for last name saying that `register` must be called there.
-
-
 
 
 ## Open Questions
