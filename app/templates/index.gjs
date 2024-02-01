@@ -1,18 +1,13 @@
 import RouteTemplate from 'ember-route-template';
 import { LinkTo } from '@ember/routing';
 import Component from '@glimmer/component';
-import { inject as service } from '@ember/service';
 import ArticleCard from '../components/article-card';
 import articles from '../article-data';
 
 let mostRecentPublishedArticle = articles.find((a) => a.published);
 
 class IndexRouteComponent extends Component {
-  @service headTitle;
-
   <template>
-    {{this.headTitle.assign "222 Sean Massa's Labs"}}
-
     <h1>Sean's Adventures</h1>
 
     <p>Sean Massa discusses tech, organizations, ethics, and games.</p>

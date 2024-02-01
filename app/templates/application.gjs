@@ -2,15 +2,10 @@ import RouteTemplate from 'ember-route-template';
 import { LinkTo } from '@ember/routing';
 import IconButton from '../components/icon-button';
 import Component from '@glimmer/component';
-import { inject as service } from '@ember/service';
-import { action } from '@ember/object';
+import HeadTitle from '../components/head-title';
 
 class MyRouteComponent extends Component {
-  @service headTitle;
-
   <template>
-    {{this.headTitle.assign "TOP"}}
-
     <header>
       <div class="site-title">Sean Massa's Labs</div>
       <nav>
@@ -52,6 +47,8 @@ class MyRouteComponent extends Component {
         which this site's design is based on.
       </p>
     </footer>
+
+    <HeadTitle />
 
     <link rel="stylesheet" href="/assets/tomorrow-night-bright.css">
   </template>
