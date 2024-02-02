@@ -1,6 +1,14 @@
 let articles =
 [
   {
+    "slug": "levels-of-web-form-libraries",
+    "published": true,
+    "title": "Levels of Web Form Libraries",
+    "date": "2024-02-01",
+    "tags": ["software-engineering"],
+    "description": "Overview of the possible kinds of web form library interfaces."
+  },
+  {
     "slug": "comparing-test-runners",
     "published": true,
     "title": "Comparing: JavaScript Test Runners",
@@ -22,7 +30,7 @@ let articles =
     "title": "Updating <code>npm</code> Packages With Certainty",
     "date": "2024-01-22",
     "tags": ["software-engineering"],
-    "description": "To find the best options for the installing/updating in all circumstances, I tested it locally and globally for <a href=\"https://docs.npmjs.com/cli/v6/commands/npm-install\">npm</a>, <a href=\"https://classic.yarnpkg.com/en/docs/cli/add\">yarn</a>, and <a href=\"https://pnpm.io/cli/install\">pnpm."
+    "description": "To find the best options for the installing/updating in all circumstances, I tested it locally and globally for <a href=\"https://docs.npmjs.com/cli/v6/commands/npm-install\">npm</a>, <a href=\"https://classic.yarnpkg.com/en/docs/cli/add\">yarn</a>, and <a href=\"https://pnpm.io/cli/install\">pnpm</a>."
   },
   {
     "slug": "theme-pact",
@@ -71,14 +79,6 @@ let articles =
     "date": "2020-03-25",
     "tags": ["interviews"],
     "description": "Highlighting candidates at their best to reduce bias and gatekeeping in hiring."
-  },
-  {
-    "slug": "levels-of-web-form-libraries",
-    "published": true,
-    "title": "Levels of Web Form Libraries",
-    "date": "2020-01-21",
-    "tags": ["software-engineering"],
-    "description": "Overview of the possible kinds of web form library interfaces."
   },
   {
     "slug": "developers-guide-a11y",
