@@ -118,9 +118,9 @@ Lead major effort (as tech lead and project manager) to decouple the existing sy
 
 <b>Design Sprints:</b> lead several Design Sprints in an effort to put intentional design into applications that were not afforded a designer.
 
-<b>Open Source:</b> promoted use of, contribution to, and release of open source projects; reviewed internal projects for open sourcing; helped build http://groupon.github.io/ to showcase our commitment to open source.
+<b>Open Source:</b> promoted use of, contribution to, and release of open source projects; reviewed internal projects for open sourcing; helped build [groupon.github.io](http://groupon.github.io/) to showcase our commitment to open source.
 
-<b>Promoting Personal Growth:</b> developed and implemented many different processes that promoted and improved personal growth of engineers: a buddy program, mentoring other engineers, codeschool.com access, safari books online access.
+<b>Promoting Personal Growth:</b> developed and implemented many different processes that promoted and improved personal growth of engineers: a buddy program, mentoring other engineers, [codeschool.com](http://web.archive.org/web/20220601083420/https://www.pluralsight.com/codeschool) access, safari books online access.
 
 <b>Training:</b> created and ran internal training courses across offices on various topics: coffeescript, promises/streams, javascript, node.js, ember.js.
 
@@ -150,7 +150,7 @@ Client Development
 - Takumi Capital
 - <IconSvg @name="calendar" /> Jun 2011 - Aug 2011
 
-I created a platform that streams data from network sockets on remote machines, compiles the data into a data structure, and provides visualizations of that data (with HighCharts) to a web browser in real time (over socket.io).
+I created a platform that streams data from network sockets on remote machines, compiles the data into a data structure, and provides visualizations of that data (with HighCharts) to a web browser in real time (over [socket.io](https://socket.io/)).
 
 The data was stock information sent back from high-frequency trading systems at stock exchanges.
 
@@ -164,7 +164,7 @@ Responsibilities:
 
 - Writing SQL scripts to correct data
 - Debugging SQL Stored Procedures and fixing them
-- Debugging Enterprise-level ASP.NET Applications and fixing them
+- Debugging Enterprise-level [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) Applications and fixing them
 - Developing Tools to automate common tasks
 - Interviewing candidates for peer positions
 
@@ -176,7 +176,7 @@ Responsibilities:
 
 Responsibilities:
 
-- Designing, Developing, Testing, and Maintaining ASP.NET applications for internal use
+- Designing, Developing, Testing, and Maintaining [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) applications for internal use
 - Maintaining legacy applications written in Classic ASP and .NET 1.1
 
 
@@ -213,7 +213,7 @@ Responsibilities:
 - <IconSvg @name="calendar" /> Mar 2007 - Aug 2007
 
 Responsibilities:
-- Wrote web pages in C#.NET and ASP.NET against a SQL Server back-end
+- Wrote web pages in C#.NET and [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) against a SQL Server back-end
 - Created a custom control that connected to a GMail account in order to fetch specialized news reports via Google Alerts
 - Created and integrated custom pages into the Content Management System
 

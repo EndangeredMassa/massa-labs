@@ -30,7 +30,7 @@ let articles =
     "title": "Updating <code>npm</code> Packages With Certainty",
     "date": "2024-01-22",
     "tags": ["software-engineering"],
-    "description": "To find the best options for the installing/updating in all circumstances, I tested it locally and globally for <a href=\"https://docs.npmjs.com/cli/v6/commands/npm-install\">npm</a>, <a href=\"https://classic.yarnpkg.com/en/docs/cli/add\">yarn</a>, and <a href=\"https://pnpm.io/cli/install\">pnpm</a>."
+    "description": "To find the best options for the installing/updating in all circumstances, I tested it locally and globally for <code>npm</code>, <code>yarn</code>, and <code>pnpm</code>."
   },
   {
     "slug": "theme-pact",

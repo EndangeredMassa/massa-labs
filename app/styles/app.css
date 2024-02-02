@@ -161,12 +161,8 @@ tr:nth-child(2n) {
   background-color: inherit;
 }
 
-header a[href^="http://"]:after,
-header a[href^="https://"]:after,
-footer p a[href^="http://"]:after,
-footer p a[href^="https://"]:after,
-.blog a[href^="http://"]:after,
-.blog a[href^="https://"]:after {
+a[href^="http://"]:not(.icon-button):after,
+a[href^="https://"]:not(.icon-button):after {
   content: "";
   background: url(/assets/external-link.svg);
   background-size:  18px 18px;
