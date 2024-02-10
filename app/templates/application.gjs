@@ -2,7 +2,7 @@ import RouteTemplate from 'ember-route-template';
 import { LinkTo } from '@ember/routing';
 import IconButton from '../components/icon-button';
 import Component from '@glimmer/component';
-import HeadTitle from '../components/head-title';
+import DynamicHead from '../components/dynamic-head';
 
 class MyRouteComponent extends Component {
   <template>
@@ -48,7 +48,8 @@ class MyRouteComponent extends Component {
       </p>
     </footer>
 
-    <HeadTitle />
+    <!-- This must come after the outlet -->
+    <DynamicHead />
 
     <link rel="stylesheet" href="/assets/tomorrow-night-bright.css">
   </template>

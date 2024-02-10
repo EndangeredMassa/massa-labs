@@ -2,23 +2,23 @@ import Service from '@ember/service';
 import { tracked } from '@glimmer/tracking'
 import { action } from '@ember/object';
 
-export default class HeadTitleService extends Service {
-  @tracked title;
+export default class HeadDescriptionService extends Service {
+  @tracked description;
 
   @action
-  assign(newTitle) {
+  assign(newDescription) {
     // `document` doesn't exist during prember run
     if (typeof document !== 'undefined') {
-      let titleElement = document.querySelector('title');
+      let element = document.querySelector('meta[name="description"]');
 
-      // the `titleElement` will not exist in the first run
+      // the `element` will not exist in the first run
       // but that's OK because the first run is handled by
       // the <DynamicHead /> component's rendering later
-      if (titleElement) {
-        titleElement.innerText = newTitle;
+      if (element) {
+        element.content = newDescription;
       }
     }
 
-    this.title = newTitle;
+    this.description = newDescription;
   }
 }

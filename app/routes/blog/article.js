@@ -4,6 +4,7 @@ import { inject as service } from '@ember/service';
 
 export default class BlogRoute extends Route {
   @service headTitle;
+  @service headDescription;
 
   beforeModel(transition) {
     // set the proper template
@@ -32,5 +33,6 @@ export default class BlogRoute extends Route {
   afterModel(model) {
     let newTitle = `${model.title} | Sean Massa's Labs`;
     this.headTitle.assign(newTitle);
+    this.headDescription.assign(model.title);
   }
 }
