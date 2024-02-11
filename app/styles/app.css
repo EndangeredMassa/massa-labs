@@ -262,6 +262,10 @@ a[href^="https://"]:not(.icon-button):after {
   margin-right: 2em;
 }
 
+.nudge-right {
+  margin-left: 1em;
+}
+
 .callout {
   overflow: hidden;
   border-radius: 10px;
@@ -282,4 +286,15 @@ a[href^="https://"]:not(.icon-button):after {
 }
 .callout-title-inner {
   font-weight: bold;
+}
+
+.pill {
+  margin-left: 0.4em;
+  padding: 0.1em 0.5em;
+
+  font-size: 1rem;
+
+  border-radius: 1em;
+  border: dashed 1px var(--code);
+  outline: none;
 }

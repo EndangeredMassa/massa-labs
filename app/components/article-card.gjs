@@ -8,9 +8,13 @@ import Heading from './x-heading';
       @tag="div"
       @route="blog.article"
       @model={{@article}}>
-
         <Heading @level={{@level}} class="title">{{{@article.title}}}</Heading>
-        <p class="meta"><IconSvg @name="calendar" /> <i>{{@article.date}}</i></p>
+        <p class="meta">
+          <IconSvg @name="calendar" /> <i>{{@article.date}}</i>
+          {{#each @article.tags as |tag|}}
+            <code class="pill">#{{tag}}</code>
+          {{/each}}
+        </p>
         <div class="meta">{{{@article.description}}}</div>
     </LinkTo>
   </div>
