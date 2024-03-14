@@ -1,6 +1,14 @@
 let articles =
 [
   {
+    "slug": "favorite-ide-vscode",
+    "published": true,
+    "title": "Favorite IDE: VisualStudio Code",
+    "date": "2024-02-01",
+    "tags": ["software-engineering", "favorite"],
+    "description": "Why Visual Studio Code is my favorite IDE."
+  },
+  {
     "slug": "levels-of-web-form-libraries",
     "published": true,
     "title": "Levels of Web Form Libraries",

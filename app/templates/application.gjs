@@ -12,12 +12,12 @@ class MyRouteComponent extends Component {
         <LinkTo @route="index">Home</LinkTo>
         <LinkTo @route="blog">Blog</LinkTo>
         <LinkTo @route="talks">Talks</LinkTo>
+        <LinkTo @route="favorites">Favorites</LinkTo>
         <LinkTo @route="resume-cv">CV</LinkTo>
         {{!-- TODO: Add this section later --}}
         {{!-- <LinkTo @route="projects">Projects</LinkTo> --}}
         <span class="separator">|</span>
         <a target="_blank" href="https://social.massalabs.com/@sean">Microblog</a>
-        <a target="_blank" href="https://github.com/EndangeredMassa">Code</a>
       </nav>
     </header>
 

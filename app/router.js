@@ -11,6 +11,10 @@ Router.map(function () {
     this.route('index', { path: '/' });
   });
 
+  this.route('favorites', function() {
+    this.route('index', { path: '/' });
+  });
+
   this.route('projects', function() {
     this.route('index', { path: '/' });
   });

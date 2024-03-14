@@ -1,0 +1,120 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "files.exclude": {
+    "**/.cache": true,
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.gitkeep": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/bower_components": true,
+    "**/CVS": true,
+    "**/dist/": true,
+    "**/node_modules/**": true,
+    "**/tmp/": true
+  },
+  "explorer.openEditors.visible": 0,
+  "explorer.confirmDragAndDrop": false,
+  "editor.renderWhitespace": "boundary",
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "files.defaultLanguage": "markdown",
+  "window.title": "${folderName}${separator}${activeEditorMedium}",
+  "editor.trimAutoWhitespace": false,
+  "search.exclude": {
+    "**/__snapshots__/**": true,
+    "**/*.dry.tsv": true,
+    "**/bower_components": false,
+    "**/node_modules": false,
+    "**/node_modules/**": true,
+    "**/package-lock.json": true,
+    "**/yarn.lock": true,
+    "package-lock.json": true,
+    "yarn.lock": true
+  },
+  "editor.autoClosingBrackets": "never",
+  "editor.autoClosingQuotes": "never",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.enableSmartCommit": true,
+  "liveshare.featureSet": "insiders",
+  "gitlens.defaultDateFormat": "YYYY-MM-DD h:mm:ss a",
+  "gitlens.defaultDateShortFormat": "YYYY-MM-DD",
+  "gitlens.currentLine.enabled": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.blame.heatmap.enabled": false,
+  "gitlens.hovers.currentLine.enabled": false,
+  "gitlens.codeLens.enabled": false,
+  "gitlens.mode.statusBar.enabled": false,
+  "editor.copyWithSyntaxHighlighting": false,
+  "editor.emptySelectionClipboard": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "git.inputValidationSubjectLength": 9999,
+  "debug.onTaskErrors": "debugAnyway",
+  "explorer.confirmDelete": false,
+  "git.autofetch": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "workbench.sideBar.location": "right",
+  "js/ts.implicitProjectConfig.experimentalDecorators": true,
+  "debug.javascript.codelens.npmScripts": "never",
+  "debug.internalConsoleOptions": "openOnSessionStart",
+  "security.workspace.trust.untrustedFiles": "open",
+  "debug.console.wordWrap": false,
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.integrated.enablePersistentSessions": false,
+  "svelte.enable-ts-plugin": true,
+  "editor.foldingStrategy": "indentation",
+  "workbench.colorTheme": "Aurora X",
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "go.toolsManagement.autoUpdate": true,
+  "workbench.colorCustomizations": {
+    "gitDecoration.untrackedResourceForeground": "#1c8a74"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "keyword.other.dotenv",
+        "settings": {
+          "foreground": "#FF000000"
+        }
+      }
+    ]
+  },
+  "files.associations": {
+    ".env*": "dotenv"
+  },
+  "[glimmer-js]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.foldingStrategy": "indentation"
+  },
+  "[glimmer-ts]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.foldingStrategy": "indentation"
+  },
+  "eslint.validate": [
+    "glimmer-ts",
+    "glimmer-js"
+  ],
+  "eslint.rules.customizations": [
+    {
+      "rule": "*",
+      "severity": "warn"
+    }
+  ],
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  "git.openRepositoryInParentFolders": "never",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.rightClickBehavior": "default",
+  "terminal.integrated.sendKeybindingsToShell": true,
+  "window.zoomLevel": 2,
+  "prettier.documentSelectors": [
+    "**/*.gts",
+    "**/*.gjs"
+  ]
+}
