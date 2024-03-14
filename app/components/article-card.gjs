@@ -11,6 +11,7 @@ import Heading from './x-heading';
         <Heading @level={{@level}} class="title">{{{@article.title}}}</Heading>
         <p class="meta">
           <IconSvg @name="calendar" /> <i>{{@article.date}}</i>
+          <span class="dim">by</span> <a href="https://social.massalabs.com/@sean" target="_blank">Sean Massa</a>
           {{#each @article.tags as |tag|}}
             <code class="pill">#{{tag}}</code>
           {{/each}}

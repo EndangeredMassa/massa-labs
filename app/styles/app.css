@@ -298,3 +298,7 @@ a[href^="https://"]:not(.icon-button):after {
   border: dashed 1px var(--code);
   outline: none;
 }
+
+.dim {
+  color: gray;
+}
