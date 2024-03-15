@@ -34,7 +34,7 @@ These are my favorite extensions. In addition to these, I'll of course install w
 
 ### Aurora (theme)
 
-Repository: [github:]()
+Repository: [github:marqu3ss/Aurora-X](https://github.com/marqu3ss/Aurora-X)
 
 ![Screenshot of Aurora theme](/assets/vscode-theme-aurora.png)
 
