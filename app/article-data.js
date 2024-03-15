@@ -4,7 +4,7 @@ let articles =
     "slug": "favorite-ide-vscode",
     "published": true,
     "title": "Favorite IDE: Visual Studio Code",
-    "date": "2024-02-01",
+    "date": "2024-03-13",
     "tags": ["software-engineering", "favorite"],
     "description": "Why Visual Studio Code is my favorite IDE."
   },
