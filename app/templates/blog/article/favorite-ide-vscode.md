@@ -36,7 +36,7 @@ These are my favorite extensions. In addition to these, I'll of course install w
 
 Repository: [github:]()
 
-![Screenshot of Auror theme](/assets/vscode-aurora.png)
+![Screenshot of Aurora theme](/assets/vscode-theme-aurora.png)
 
 
 ### Better Comments
