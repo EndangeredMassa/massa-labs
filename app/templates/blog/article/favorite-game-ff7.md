@@ -18,39 +18,39 @@ This guide takes you from nothing to immersed in this world. I tried to add as m
 
 - *anchor point*
     - **Final Fantasy VII** (original, middle of timeline)
-        - (play) [Amazon](Final Fantasy VII and Final Fantasy VIII Remastered) (3x speed mode, toggle for random encounters)
+        - (play) [Buy Game](https://www.play-asia.com/final-fantasy-vii-final-fantasy-viii-remastered-twin-pack/13/70dtnf) (3x speed mode, toggle for random encounters)
         - (watch summary) [The ULTIMATE Recap of Final Fantasy VII](https://www.youtube.com/watch?v=EluNo3W4dog)
 - *before and after anchor point*
     -  **Crisis Core Reunion** (7 years prior to FF7 original)
-        - (play) [Amazon](https://www.amazon.com/Crisis-Core-Final-Fantasy-Reunion-PlayStation/dp/B0B5B2B2S1?th=1) (no need to play the original Crisis Core)
+        - (play) [Buy Game](https://www.amazon.com/Crisis-Core-Final-Fantasy-Reunion-PlayStation/dp/B0B5B2B2S1?th=1) (no need to play the original Crisis Core)
         - (watch summary) [The ULTIMATE Recap of Crisis Core: Final Fantasy VII](https://www.youtube.com/watch?v=lKfFHYiiNSk)
         - (watch longplay) [MAX PLAYS: Crisis Core - Final Fantasy VII Reunion](https://www.youtube.com/playlist?list=PLitZkRNNn1LjGm7Z5NcB6jZP9EpiyIMox)
     - **Before Crisis** (6 years prior to FF7 original)
         - (play) no longer possible
         - (watch summary) [The ULTIMATE Recap of Before Crisis: Final Fantasy VII](https://www.youtube.com/watch?v=xpSUE8j7aSs)
     - **Final Fantasy VII: On the Way to a Smile** (after end of FF7 original)
-        - (read) [Amazon](https://www.amazon.com/Final-Fantasy-VII-Way-Smile/dp/1975382358)
+        - (read) [Buy Book](https://www.amazon.com/Final-Fantasy-VII-Way-Smile/dp/1975382358)
         - (watch summary) [Summary and Review](https://www.youtube.com/watch?v=uMDGwRBzwgA)
     - **Final Fantasy VII: The Kids Are Alright: A Turks Side Story** (after end of FF7 original)
-        - (read) [Amazon](https://www.amazon.com/Final-Fantasy-VII-Alright-Turks/dp/1975382366)
+        - (read) [Buy Book](https://www.amazon.com/Final-Fantasy-VII-Alright-Turks/dp/1975382366)
         - (watch summary) [Summary of (The Kids are Alright)](https://youtu.be/ULvns3qN4UI?t=3103)
     - **Advent Children** (2 years after end of FF7 original)
-        - (watch) [Amazon](https://www.amazon.com/Final-Fantasy-VII-Children-Complete/dp/B091NQGL8X)
+        - (watch) [Buy Game](https://www.amazon.com/Final-Fantasy-VII-Children-Complete/dp/B091NQGL8X)
         - (watch summary) [The ULTIMATE Recap of Final Fantasy VII: Advent Children](https://www.youtube.com/watch?v=NZDbWAosmLs)
     - **Dirge of Cerberus: Final Fantasy VII** (3 years after end of FF7 original)
-        - (play) [eBay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=+Dirge+of+Cerberus&_sacat=0)
+        - (play) [Buy Game](https://www.ebay.com/sch/i.html?_from=R40&_nkw=+Dirge+of+Cerberus&_sacat=0)
         - (watch summary) [The ULTIMATE Recap of Dirge of Cerberus: Final Fantasy VII](https://www.youtube.com/watch?v=h6wt0zpKhl4)
 - *remake point*
     - **Final Fantasy VII Remake**
-        - (play) [Amazon](https://www.ebay.com/sch/i.html?_from=R40&_nkw=FINAL+FANTASY+VII+REMAKE+INTERGRADE+ps5&_sacat=0) (INTERGRADE edition contains INTERmission DLC)
+        - (play) [Buy Game](https://www.ebay.com/sch/i.html?_from=R40&_nkw=FINAL+FANTASY+VII+REMAKE+INTERGRADE+ps5&_sacat=0) (INTERGRADE edition contains INTERmission DLC)
         - (watch longplay) [Final Fantasy VII Remake w/Maximilian](https://www.youtube.com/playlist?list=PLitZkRNNn1LjDKjigD2k_FgthAQ3tgg3X)
         - (watch longplay) [Final Fantasy VII Remake REVISITED w/ Maximilian](https://www.youtube.com/playlist?list=PLitZkRNNn1LjcgkVzHxMA6Ma_n0sl5UC8)
     - **Final Fantasy VII Remake INTERmission DLC**
-        - (play) [Amazon](https://www.ebay.com/sch/i.html?_from=R40&_nkw=FINAL+FANTASY+VII+REMAKE+INTERGRADE+ps5&_sacat=0) (INTERGRADE edition contains INTERmission DLC)
+        - (play) [Buy Game](https://www.ebay.com/sch/i.html?_from=R40&_nkw=FINAL+FANTASY+VII+REMAKE+INTERGRADE+ps5&_sacat=0) (INTERGRADE edition contains INTERmission DLC)
     - **Final Fantasy VII Remake: Traces of Two Pasts**
-        - (read) [Amazon](https://www.amazon.com/Final-Fantasy-VII-Remake-Traces/dp/1646091779)
+        - (read) [Buy Book](https://www.amazon.com/Final-Fantasy-VII-Remake-Traces/dp/1646091779)
     - **Final Fantasy VII Rebirth**
-        - (play) [Amazon](https://www.amazon.com/Final-Fantasy-VII-Rebirth-PlayStation-5/dp/B0CGXZQ4CD?th=1)
+        - (play) [Buy Game](https://www.amazon.com/Final-Fantasy-VII-Rebirth-PlayStation-5/dp/B0CGXZQ4CD?th=1)
         - (watch longplay) [MAX PLAYS - Final Fantasy VII Rebirth](https://www.youtube.com/playlist?list=PLitZkRNNn1LitPSUh3vYrrXd-j1UPlXUN)
 
 ### Extra
@@ -61,10 +61,10 @@ This guide takes you from nothing to immersed in this world. I tried to add as m
     - (watch longplay) [FFVII - New Threat 2019 Playthru w/Maximilian](https://www.youtube.com/playlist?list=PLitZkRNNn1LiI9A07yAf04iPxGJDekB8k)
 - **Final Fantasy VII Remake: Material Ultimania**
     - This is a nice collection of art, details, and commentary on the world.
-    - (read) [Amazon](https://www.amazon.com/Final-Fantasy-VII-Remake-Ultimania/dp/1646091213)
+    - (read) [Buy Book](https://www.amazon.com/Final-Fantasy-VII-Remake-Ultimania/dp/1646091213)
 - **Final Fantasy VII Remake: World Preview**
     - This is mostly an art book, but includes an exclusive short story.
-    - (read) [Amazon](https://www.amazon.com/Final-Fantasy-VII-Remake-Preview/dp/1646090845)
+    - (read) [Buy Book](https://www.amazon.com/Final-Fantasy-VII-Remake-Preview/dp/1646090845)
 - **The Maiden Who Travels the Planet**
     - This is a translation from a kinda-canon story.
     - (read) [TheLifestream.net fan site](https://thelifestream.net/novels-novellas/the-maiden-who-travels-the-planet)
