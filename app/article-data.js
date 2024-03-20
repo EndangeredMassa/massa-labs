@@ -1,6 +1,14 @@
 let articles =
 [
   {
+    "slug": "favorite-game-ff7",
+    "published": true,
+    "title": "Favorite Game: Final Fantasy VII",
+    "date": "2024-03-19",
+    "tags": ["gaming", "favorite"],
+    "description": "Guide to absorbing the Final Fantasy VII universe."
+  },
+  {
     "slug": "favorite-ide-vscode",
     "published": true,
     "title": "Favorite IDE: Visual Studio Code",
