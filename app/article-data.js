@@ -1,6 +1,22 @@
 let articles =
 [
   {
+    "slug": "favorite-tech-commentary-sources",
+    "published": false,
+    "title": "Favorite Tech Commentary Sources: Tech Won't Save Us, Cory Doctorow, Last Week Tonight, Molly White, How to Fix the Internet",
+    "date": "2024-03-19",
+    "tags": ["social", "tech", "favorite"],
+    "description": "Why these are my favorite sources of commentary on the state of technology."
+  },
+  {
+    "slug": "favorite-news-sources",
+    "published": true,
+    "title": "Favorite News Sources: Ground News, 404 Media, WTFJHT",
+    "date": "2024-03-19",
+    "tags": ["social", "favorite"],
+    "description": "Why these are my favorite sources of news."
+  },
+  {
     "slug": "favorite-game-ff7",
     "published": true,
     "title": "Favorite Game: Final Fantasy VII",
