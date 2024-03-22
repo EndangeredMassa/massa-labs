@@ -288,8 +288,12 @@ a[href^="https://"]:not(.icon-button):after {
   font-weight: bold;
 }
 
+.pill-box {
+  display: inline-block;
+}
+
 .pill {
-  margin-left: 0.4em;
+  margin-right: 0.4em;
   padding: 0.1em 0.5em;
 
   font-size: 1rem;

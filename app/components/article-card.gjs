@@ -12,9 +12,12 @@ import Heading from './x-heading';
         <p class="meta">
           <IconSvg @name="calendar" /> <i>{{@article.date}}</i>
           <span class="dim">by</span> <a href="https://social.massalabs.com/@sean" target="_blank">Sean Massa</a>
-          {{#each @article.tags as |tag|}}
-            <code class="pill">#{{tag}}</code>
-          {{/each}}
+          &nbsp;
+          <div class="pill-box">
+            {{#each @article.tags as |tag|}}
+              <code class="pill">#{{tag}}</code>
+            {{/each}}
+          </div>
         </p>
         <div class="meta">{{{@article.description}}}</div>
     </LinkTo>
