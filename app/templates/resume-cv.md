@@ -13,7 +13,7 @@ Current! I'll flesh this out in the future.
 ### Technical Lead / Senior Software Engineer
 
 - [Talent Inc.](https://www.talentinc.com/)
-- <IconSvg @name="calendar" /> Jun 2021 - Jan 2022
+- <IconSvg @name="calendar" /> Jun 2021 - Jan 2022 (8 months)
 
 I was the CTO of FlashRecruit, which was acquired by Talent Inc.
 
@@ -23,7 +23,7 @@ At Talent Inc., I'm working on integrated the FlashRecruit tech (job ingestion, 
 ### Contractor for Software and Organizational Development
 
 - [Sean Massa, LLC](https://massalabs.com)
-- <IconSvg @name="calendar" /> Jan 2021 - Jun 2021
+- <IconSvg @name="calendar" /> Jan 2021 - Jun 2021 (6 months)
 
 I offer the following services on a contract basis:
 
@@ -43,7 +43,7 @@ Project Management:
 ### CTO
 
 - [FlashRecruit](https://www.linkedin.com/company/flashrecruit/about/)
-- <IconSvg @name="calendar" /> Jul 2018 - Jan 2021
+- <IconSvg @name="calendar" /> Jul 2018 - Jan 2021 (2 years, 7 months)
 - Acquired <IconSvg @name="calendar" /> Jan 2021
 
 <b>Recruiting:</b> Defined roles, sourced candidates, developed interview process, interviewed candidates, hired, and let people go as needed. <LinkTo
@@ -62,7 +62,7 @@ Project Management:
 ### Technical Lead / Senior Software Engineer
 
 - [ActiveCampaign](https://www.activecampaign.com/)
-- <IconSvg @name="calendar" /> Nov 2017 - Jul 2018
+- <IconSvg @name="calendar" /> Nov 2017 - Jul 2018 (9 months)
 
 <b>Architecture Guild:</b> Helped form and contribute to a group of people from across the organization to standardize our architectural decisions. The initial work was focused on documenting what we had. Then we started working towards shifting some of our existing decisions to more consistent tools that matched current and desired skill sets, hiring markets, and optimal use cases.
 
@@ -74,7 +74,7 @@ Project Management:
 ### Technical Lead / Senior Software Engineer
 
 - [JPMorgan Chase](https://www.jpmorganchase.com/)
-- <IconSvg @name="calendar" /> May 2017 - Nov 2017
+- <IconSvg @name="calendar" /> May 2017 - Nov 2017 (7 months)
 
 Working on an Ember-based internal framework team with a focus on enabling other teams to build accessible web applications. This team ships an Ember addon that's a collection of web accessible Ember components.
 
@@ -88,7 +88,7 @@ Working on an Ember-based internal framework team with a focus on enabling other
 ### Technical Lead / Senior Software Engineer
 
 - [Popular Pays](https://popularpays.com/)
-- <IconSvg @name="calendar" /> Jul 2015 - Mar 2017
+- <IconSvg @name="calendar" /> Jul 2015 - Mar 2017 (1 year, 9 months)
 
 Worked to standardize project processes, code quality standards, and the performance review process.
 
@@ -104,7 +104,7 @@ Lead major effort (as tech lead and project manager) to decouple the existing sy
 ### Software Engineer
 
 - [Groupon](https://www.groupon.com/)
-- <IconSvg @name="calendar" /> Oct 2011 - Jun 2015
+- <IconSvg @name="calendar" /> Oct 2011 - Jun 2015 (3 years, 9 months)
 
 <b>UI Engineering:</b> formed and lead the UI Engineering team responsible for standardizing web application development; created a standard ember-cli blueprint for app development; paired with teams to ramp them up on Ember and help with initial Ember versions of their app.
 
@@ -130,7 +130,7 @@ Lead major effort (as tech lead and project manager) to decouple the existing sy
 ### Software Engineer
 
 - [Sonoma Partners](https://www.linkedin.com/company/sonoma-partners/about/)
-- <IconSvg @name="calendar" /> Jan 2010 - Oct 2011
+- <IconSvg @name="calendar" /> Jan 2010 - Oct 2011 (1 year, 10 months)
 
 Internal Development
 
@@ -148,7 +148,7 @@ Client Development
 ### Contractor for Software Development
 
 - Takumi Capital
-- <IconSvg @name="calendar" /> Jun 2011 - Aug 2011
+- <IconSvg @name="calendar" /> Jun 2011 - Aug 2011 (3 months)
 
 I created a platform that streams data from network sockets on remote machines, compiles the data into a data structure, and provides visualizations of that data (with HighCharts) to a web browser in real time (over [socket.io](https://socket.io/)).
 
@@ -158,7 +158,7 @@ The data was stock information sent back from high-frequency trading systems at 
 ### Support Engineer
 
 - Canopy Financial
-- <IconSvg @name="calendar" /> Apr 2009 - Nov 2009
+- <IconSvg @name="calendar" /> Apr 2009 - Nov 2009 (8 months)
 
 Responsibilities:
 
@@ -172,7 +172,7 @@ Responsibilities:
 ### Web Software Engineer
 
 - [Heitman](https://www.heitman.com/)
-- <IconSvg @name="calendar" /> Apr 2007 - Apr 2009
+- <IconSvg @name="calendar" /> Apr 2007 - Apr 2009 (2 years)
 
 Responsibilities:
 
@@ -183,7 +183,7 @@ Responsibilities:
 ### Web Software Engineer
 
 - [INCCRRA](https://www.inccrra.org/)
-- <IconSvg @name="calendar" /> Mar 2007 - Aug 2007
+- <IconSvg @name="calendar" /> Mar 2007 - Aug 2007 (6 months)
 
 Responsibilities:
 
@@ -196,7 +196,7 @@ Responsibilities:
 ### Typesetter
 
 - Publication Services
-- <IconSvg @name="calendar" /> Mar 2007 - Aug 2007
+- <IconSvg @name="calendar" /> Mar 2001 - Aug 2007 (6 years)
 
 Part-time during high school and college; full-time during summers.
 
@@ -210,7 +210,7 @@ Responsibilities:
 ### Software Development Internship
 
 - [Sedona Technologies](https://www.sedonatek.com/)
-- <IconSvg @name="calendar" /> Mar 2007 - Aug 2007
+- <IconSvg @name="calendar" /> June 2006 - Aug 2006 (3 months)
 
 Responsibilities:
 - Wrote web pages in C#.NET and [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) against a SQL Server back-end
