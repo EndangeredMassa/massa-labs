@@ -4,16 +4,18 @@
 
 ## Tech Won't Save Us
 
-https://www.techwontsave.us/
+[Tech Won't Save Us](https://www.techwontsave.us) | [Tech Won't Save Us (YouTube)](https://www.youtube.com/@techwontsaveus)
+
+
 
 ## Cory Doctorow
 
-https://pluralistic.net/
+[Pluralistic.net](https://pluralistic.net) | [Cory Doctorow (Mastodon)](https://mamot.fr/@pluralistic)
 
 
 ## Last Week Tonight with John Oliver
 
-[Last Week Tonight](https://www.youtube.com/@LastWeekTonight/videos)
+[Last Week Tonight (YouTube)](https://www.youtube.com/@LastWeekTonight/videos)
 
 
 
@@ -21,12 +23,16 @@ https://pluralistic.net/
 
 ## Molly White
 
-https://www.web3isgoinggreat.com/
+[Molly White (YouTube)](https://www.youtube.com/@molly0xfff/videos) | [Web3 is Going Just Great](https://www.web3isgoinggreat.com)
 
-https://www.youtube.com/@molly0xfff/videos
+
+
+
 
 
 ## How to Fix the Internet
 
-https://www.eff.org/how-to-fix-the-internet-podcast
+[How to Fix the Internet](https://www.eff.org/how-to-fix-the-internet-podcast)
+
+
 
