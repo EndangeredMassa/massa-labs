@@ -20,11 +20,10 @@ function thumbnail(videoID) {
 
 <template>
   <div class="video-link">
-    <a target="_blank" href={{href @id @source}}>
-      <h3>
-        <div class="talk-title">{{@title}}</div>
-        <div class="talk-date"><IconSvg @name="calendar" /> {{@date}}</div>
-      </h3>
+    <a target="_blank" class="no-icon" href={{href @id @source}}>
+      <h3>{{ @title }}</h3>
+
+      <div><IconSvg @name="calendar" /> {{@date}}</div>
 
       <p class="thumbnail">
         <img src={{thumbnail @id}} alt={{@alt}}>
