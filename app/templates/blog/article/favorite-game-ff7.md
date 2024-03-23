@@ -77,7 +77,7 @@ This guide takes you from nothing to immersed in this world. I tried to add as m
     - [Final Fantasy Fans Reacting to Sephiroth In Kingdom Hearts](https://www.youtube.com/watch?v=GF93WtaWDS4)
     - [MAX/DOODS REACT: Sephiroth - Smash Ultimate Reveal](https://www.youtube.com/watch?v=QT_r90jg8eA)
     - [MAX REACTS: Cloud Revealed for Smash Bros](https://www.youtube.com/watch?v=CK5gdf5cMPM)
-- **Maximillian Dood's History with FF7**
+- **Maximillian Dood's History with Final Fantasy VII**
     - [Max's Insane FFVII Remake Story (E3 2019)](https://www.youtube.com/watch?v=OalvWEJCZBA)
     - [Journey To The Remake (Max's FFVIIR Story) ](https://www.youtube.com/watch?v=hQW6VckzDxg)
 
