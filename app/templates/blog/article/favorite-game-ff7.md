@@ -49,6 +49,7 @@ This guide takes you from nothing to immersed in this world. I tried to add as m
         - (play) [Buy Game](https://www.ebay.com/sch/i.html?_from=R40&_nkw=FINAL+FANTASY+VII+REMAKE+INTERGRADE+ps5&_sacat=0) (INTERGRADE edition contains INTERmission DLC)
     - **Final Fantasy VII Remake: Traces of Two Pasts**
         - (read) [Buy Book](https://www.amazon.com/Final-Fantasy-VII-Remake-Traces/dp/1646091779)
+        - (watch summary) [The Complete Story of Final Fantasy VII Remake: Traces of Two Pasts](https://www.youtube.com/watch?v=kET2W0iaCz4)
     - **Final Fantasy VII Rebirth**
         - (play) [Buy Game](https://www.amazon.com/Final-Fantasy-VII-Rebirth-PlayStation-5/dp/B0CGXZQ4CD?th=1)
         - (watch longplay) [MAX PLAYS - Final Fantasy VII Rebirth](https://www.youtube.com/playlist?list=PLitZkRNNn1LitPSUh3vYrrXd-j1UPlXUN)
