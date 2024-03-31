@@ -53,6 +53,11 @@ This guide takes you from nothing to immersed in this world. I tried to add as m
     - **Final Fantasy VII Rebirth**
         - (play) [Buy Game](https://www.amazon.com/Final-Fantasy-VII-Rebirth-PlayStation-5/dp/B0CGXZQ4CD?th=1)
         - (watch longplay) [MAX PLAYS - Final Fantasy VII Rebirth](https://www.youtube.com/playlist?list=PLitZkRNNn1LitPSUh3vYrrXd-j1UPlXUN)
+        - (watch documentary) [Inside FINAL FANTASY VII REBIRTH](https://press.na.square-enix.com/SQUARE-ENIX-PULLS-BACK-THE-CURTAIN-ON-FINAL-FANTASY-VII-REBIRTH-WITH-N)
+          - [Shaping the World - Episode 1 (Environment, Art and Music)](https://www.youtube.com/watch?v=S1ZYUQ1_jmQ)
+          - [Friends of Fate - Episode 2 (Scenario, Cutscenes and Story)](https://www.youtube.com/watch?v=MIwkjac3MGc)
+          - [New Friends & Foes Episode 3 (Characters, Combat, Localization)](https://www.youtube.com/watch?v=tK8n-8IE8aQ)
+          - [Voicing Icons - Episode Four (English Voice Actors)](https://www.youtube.com/watch?v=NDqZPi4759Y)
 
 ### Extra
 
