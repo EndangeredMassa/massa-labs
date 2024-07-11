@@ -1,6 +1,14 @@
 let articles =
 [
   {
+    "slug": "escaping-infinity-pools",
+    "published": true,
+    "title": "Escaping Infinity Pools",
+    "date": "2024-07-11",
+    "tags": ["productivity"],
+    "description": "Blocking my access to Infinity Pools."
+  },
+  {
     "slug": "favorite-tech-commentary-sources",
     "published": true,
     "title": "Favorite Tech Commentary Sources: Tech Won't Save Us, Cory Doctorow, Last Week Tonight, Molly White, How to Fix the Internet",

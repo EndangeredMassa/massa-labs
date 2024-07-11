@@ -119,6 +119,20 @@ pre {
   margin: 1em 2em;
 }
 
+
+.blog img {
+  background-color: #000;
+  border: solid 2px var(--accent);
+  margin: 1em 2em;
+
+  padding: 4px;
+  max-width: 90%;
+  overflow: auto;
+}
+
+
+
+
 details {
   background-color: inherit;
 }
