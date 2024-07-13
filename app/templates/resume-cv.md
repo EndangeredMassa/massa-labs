@@ -1,19 +1,39 @@
-# Sean's Resume / CV
+# Sean Massa's Resume / CV
 
-## Work History
+<a href="https://massalabs.com/resume-cv">https://massalabs.com/resume-cv</a><br>
+endangeredmassa@gmail.com<br>
+Chicago area, IL
+
+<div class="no-print">
+  You can print this page and "Save to PDF" for a PDF version.
+</div>
+
+## Experience
 
 ### Team Lead / Manager / Senior Software Engineer
 
-- [Vercel](https://vercel.com/)
-- <IconSvg @name="calendar" /> Jan 2022 - Present
+<div class="pill-box">
+  <code class="pill">Vercel</code>
+  <code class="pill"><IconSvg @name="calendar" /> Jan 2022 - Present</code>
+</div>
 
-Current! I'll flesh this out in the future.
+**Organizational Development:** Worked with a small group to define, roll out, and iterate the engineering career ladder. Draw on my personal collection of ~40 career ladders as well as personal experience creating multiple ladders in the past.
+
+**Team Building and People Leadership:** Set the standard for continuous performance review process, hiring teams, and running teams. Consistently delievered "the most useful review I've ever received" to my reports.
+
+**Cross-team, Cross-functional Problem Solving:** Drove, designed, collaborated, and executed multiple cross-team, cross-functional intiatives to address significant issues affecting the platform.
+
+**Team and Technical Leadership:** Worked with dozens of people across the company to get input and feedback on a long-term direction, developed a detailed technical and organizational plan, synthesized it into key points for presenting to leadership, then reoriented planning (not just on my team) to this north star.
+
+**Made Hard Calls for Quality:** Declared a "Code Yellow" for my team to stop product work to focus on a new test matrix that tests deployments across the dimensions: node version, framework version, and package manager. This allowed the company to deploy with confidence.
 
 
-### Technical Lead / Senior Software Engineer
+### Tech lead / Senior Software Engineer
 
-- [Talent Inc.](https://www.talentinc.com/)
-- <IconSvg @name="calendar" /> Jun 2021 - Jan 2022 (8 months)
+<div class="pill-box">
+  <code class="pill">Talent Inc.</code>
+  <code class="pill"><IconSvg @name="calendar" /> Jun 2021 - Jan 2022 (8 months)</code>
+</div>
 
 I was the CTO of FlashRecruit, which was acquired by Talent Inc.
 
@@ -22,8 +42,10 @@ At Talent Inc., I'm working on integrated the FlashRecruit tech (job ingestion, 
 
 ### Contractor for Software and Organizational Development
 
-- [Sean Massa, LLC](https://massalabs.com)
-- <IconSvg @name="calendar" /> Jan 2021 - Jun 2021 (6 months)
+<div class="pill-box">
+  <code class="pill">Sean Massa, LLC</code>
+  <code class="pill"><IconSvg @name="calendar" /> Jan 2021 - Jun 2021 (6 months)</code>
+</div>
 
 I offer the following services on a contract basis:
 
@@ -40,11 +62,13 @@ Project Management:
  - Project Process Development and Implementation
 
 
-### CTO
+### Chief Technology Officer (CTO)
 
-- [FlashRecruit](https://www.linkedin.com/company/flashrecruit/about/)
-- <IconSvg @name="calendar" /> Jul 2018 - Jan 2021 (2 years, 7 months)
-- Acquired <IconSvg @name="calendar" /> Jan 2021
+<div class="pill-box">
+  <code class="pill">FlashRecruit</code>
+  <code class="pill"><IconSvg @name="calendar" /> Jul 2018 - Jan 2021 (2 years, 7 months)</code>
+  <code class="pill">Acquired <IconSvg @name="calendar" /> Jan 2021</code>
+</div>
 
 <b>Recruiting:</b> Defined roles, sourced candidates, developed interview process, interviewed candidates, hired, and let people go as needed. <LinkTo
   @route="blog.article"
@@ -59,10 +83,12 @@ Project Management:
 <b>Leadership:</b> Owned technical vision. Aligned with business vision. Grew and down-scaled the team as necessary, even though it was painful.
 
 
-### Technical Lead / Senior Software Engineer
+### Tech lead / Senior Software Engineer
 
-- [ActiveCampaign](https://www.activecampaign.com/)
-- <IconSvg @name="calendar" /> Nov 2017 - Jul 2018 (9 months)
+<div class="pill-box">
+  <code class="pill">ActiveCampaign</code>
+  <code class="pill"><IconSvg @name="calendar" /> Nov 2017 - Jul 2018 (9 months)</code>
+</div>
 
 <b>Architecture Guild:</b> Helped form and contribute to a group of people from across the organization to standardize our architectural decisions. The initial work was focused on documenting what we had. Then we started working towards shifting some of our existing decisions to more consistent tools that matched current and desired skill sets, hiring markets, and optimal use cases.
 
@@ -71,10 +97,12 @@ Project Management:
 <b>Community Engagement:</b> Facilitated the Chicago Ember.js meetup events in the office. Helped coordinate sending 7 people to EmberConf and share our experiences when come back. Ran Lunch & Learn events where we watched instructional videos (like an EmberMap series) and discussed them in the context of our own work.
 
 
-### Technical Lead / Senior Software Engineer
+### Tech lead / Senior Software Engineer
 
-- [JPMorgan Chase](https://www.jpmorganchase.com/)
-- <IconSvg @name="calendar" /> May 2017 - Nov 2017 (7 months)
+<div class="pill-box">
+  <code class="pill">JPMorgan Chase</code>
+  <code class="pill"><IconSvg @name="calendar" /> May 2017 - Nov 2017 (7 months)</code>
+</div>
 
 Working on an Ember-based internal framework team with a focus on enabling other teams to build accessible web applications. This team ships an Ember addon that's a collection of web accessible Ember components.
 
@@ -85,10 +113,12 @@ Working on an Ember-based internal framework team with a focus on enabling other
 <b>Team Processes:</b> Improving team development processes by relying on a strong Retrospective process to drive the rest of the change the team wants to do. Changes are very problem focused--what's the real issue we're trying to solve, what possible options are there to solve that problem, what are the pros/cons of each, and after we've chosen one, how do we know if it was successful.
 
 
-### Technical Lead / Senior Software Engineer
+### Tech lead / Senior Software Engineer
 
-- [Popular Pays](https://popularpays.com/)
-- <IconSvg @name="calendar" /> Jul 2015 - Mar 2017 (1 year, 9 months)
+<div class="pill-box">
+  <code class="pill">Popular Pays</code>
+  <code class="pill"><IconSvg @name="calendar" /> Jul 2015 - Mar 2017 (1 year, 9 months)</code>
+</div>
 
 Worked to standardize project processes, code quality standards, and the performance review process.
 
@@ -103,8 +133,10 @@ Lead major effort (as tech lead and project manager) to decouple the existing sy
 
 ### Software Engineer
 
-- [Groupon](https://www.groupon.com/)
-- <IconSvg @name="calendar" /> Oct 2011 - Jun 2015 (3 years, 9 months)
+<div class="pill-box">
+  <code class="pill">Groupon</code>
+  <code class="pill"><IconSvg @name="calendar" /> Oct 2011 - Jun 2015 (3 years, 9 months)</code>
+</div>
 
 <b>UI Engineering:</b> formed and lead the UI Engineering team responsible for standardizing web application development; created a standard ember-cli blueprint for app development; paired with teams to ramp them up on Ember and help with initial Ember versions of their app.
 
@@ -129,8 +161,10 @@ Lead major effort (as tech lead and project manager) to decouple the existing sy
 
 ### Software Engineer
 
-- [Sonoma Partners](https://www.linkedin.com/company/sonoma-partners/about/)
-- <IconSvg @name="calendar" /> Jan 2010 - Oct 2011 (1 year, 10 months)
+<div class="pill-box">
+  <code class="pill">Sonoma Partners</code>
+  <code class="pill"><IconSvg @name="calendar" /> Jan 2010 - Oct 2011 (1 year, 10 months)</code>
+</div>
 
 Internal Development
 
@@ -147,8 +181,10 @@ Client Development
 
 ### Contractor for Software Development
 
-- Takumi Capital
-- <IconSvg @name="calendar" /> Jun 2011 - Aug 2011 (3 months)
+<div class="pill-box">
+  <code class="pill">Takumi Capital</code>
+  <code class="pill"><IconSvg @name="calendar" /> Jun 2011 - Aug 2011 (3 months)</code>
+</div>
 
 I created a platform that streams data from network sockets on remote machines, compiles the data into a data structure, and provides visualizations of that data (with HighCharts) to a web browser in real time (over [socket.io](https://socket.io/)).
 
@@ -157,8 +193,10 @@ The data was stock information sent back from high-frequency trading systems at 
 
 ### Support Engineer
 
-- Canopy Financial
-- <IconSvg @name="calendar" /> Apr 2009 - Nov 2009 (8 months)
+<div class="pill-box">
+  <code class="pill">Canopy Financial</code>
+  <code class="pill"><IconSvg @name="calendar" /> Apr 2009 - Nov 2009 (8 months)</code>
+</div>
 
 Responsibilities:
 
@@ -171,8 +209,10 @@ Responsibilities:
 
 ### Web Software Engineer
 
-- [Heitman](https://www.heitman.com/)
-- <IconSvg @name="calendar" /> Apr 2007 - Apr 2009 (2 years)
+<div class="pill-box">
+  <code class="pill">Heitman</code>
+  <code class="pill"><IconSvg @name="calendar" /> Apr 2007 - Apr 2009 (2 years)</code>
+</div>
 
 Responsibilities:
 
@@ -182,8 +222,10 @@ Responsibilities:
 
 ### Web Software Engineer
 
-- [INCCRRA](https://www.inccrra.org/)
-- <IconSvg @name="calendar" /> Mar 2007 - Aug 2007 (6 months)
+<div class="pill-box">
+  <code class="pill">INCCRRA</code>
+  <code class="pill"><IconSvg @name="calendar" /> Mar 2007 - Aug 2007 (6 months)</code>
+</div>
 
 Responsibilities:
 
@@ -195,8 +237,10 @@ Responsibilities:
 
 ### Typesetter
 
-- Publication Services
-- <IconSvg @name="calendar" /> Mar 2001 - Aug 2007 (6 years)
+<div class="pill-box">
+  <code class="pill">Publication Services</code>
+  <code class="pill"><IconSvg @name="calendar" /> Mar 2001 - Aug 2007 (6 years)</code>
+</div>
 
 Part-time during high school and college; full-time during summers.
 
@@ -206,11 +250,12 @@ Responsibilities:
 - Wrote scripts to structure large quantities of data
 - Setup book projects using Adobe FrameMaker and Quark eXpress
 
-
 ### Software Development Internship
 
-- [Sedona Technologies](https://www.sedonatek.com/)
-- <IconSvg @name="calendar" /> June 2006 - Aug 2006 (3 months)
+<div class="pill-box">
+  <code class="pill">Sedona Technologies</code>
+  <code class="pill"><IconSvg @name="calendar" /> June 2006 - Aug 2006 (3 months)</code>
+</div>
 
 Responsibilities:
 - Wrote web pages in C#.NET and [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) against a SQL Server back-end
@@ -222,5 +267,7 @@ Responsibilities:
 
 ### B.S. Computer Science
 
-- [Illinois State University (ISU)](https://illinoisstate.edu/)
-- <IconSvg @name="calendar" /> 2003 - 2007
+<div class="pill-box">
+  <code class="pill">Illinois State University (ISU)</code>
+  <code class="pill"><IconSvg @name="calendar" /> 2003 - 2007</code>
+</div>

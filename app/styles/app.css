@@ -313,3 +313,49 @@ a[href^="https://"]:not(.icon-button):not(.no-icon):after {
 .dim {
   color: gray;
 }
+
+p + ul {
+  margin-top: -1rem;
+}
+
+.print-only {
+  display: none;
+}
+
+@media print {
+  * {
+    font-size: 0.75rem;
+    color: black !important;
+  }
+
+  ul {
+    padding-left: 1.25rem;
+  }
+
+  a[href^="http://"]:not(.icon-button):not(.no-icon):after,
+  a[href^="https://"]:not(.icon-button):not(.no-icon):after {
+    background: none;
+    margin-left: 0;
+    padding-right: 0;
+  }
+
+  .pill {
+    border: solid 1px black;
+  }
+
+  div, p {
+    break-inside: avoid;
+  }
+
+  header,
+  footer,
+  nav,
+  svg,
+  .no-print {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+}
