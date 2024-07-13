@@ -10,7 +10,7 @@ Chicago area, IL
 
 ## Experience
 
-### Team Lead / Manager / Senior Software Engineer
+### Engineering Manager
 
 <div class="pill-box">
   <code class="pill">Vercel</code>
@@ -28,7 +28,7 @@ Chicago area, IL
 **Made Hard Calls for Quality:** Declared a "Code Yellow" for my team to stop product work to focus on a new test matrix that tests deployments across the dimensions: node version, framework version, and package manager. This allowed the company to deploy with confidence.
 
 
-### Tech lead / Senior Software Engineer
+### Tech Lead
 
 <div class="pill-box">
   <code class="pill">Talent Inc.</code>
@@ -47,7 +47,7 @@ At Talent Inc., I'm working on integrated the FlashRecruit tech (job ingestion, 
   <code class="pill"><IconSvg @name="calendar" /> Jan 2021 - Jun 2021 (6 months)</code>
 </div>
 
-I offer the following services on a contract basis:
+I offered the following services on a contract basis.
 
 Software Development:
  - Node.js, Ember.js, Ruby on Rails
@@ -249,6 +249,7 @@ Responsibilities:
 - Proofread typeset pages
 - Wrote scripts to structure large quantities of data
 - Setup book projects using Adobe FrameMaker and Quark eXpress
+
 
 ### Software Development Internship
 
