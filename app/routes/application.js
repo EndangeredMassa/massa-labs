@@ -10,6 +10,15 @@ export default class ApplicationRoute extends Route {
   @service fastboot;
   @service router;
 
+  afterRender() {
+    hljs.highlightAll();
+
+    let tags = document.querySelectorAll("h1,h2,h3,h4,h5,h6");
+    for (var i=0, heading; heading = tags[i]; i++) {
+      heading.id = heading.innerHTML.toLowerCase().replace(/ /g, "-");
+    }
+  }
+
   activate() {
     if (firstLoad && !this.fastboot.isFastBoot) {
       registerVercelAnalytics();
@@ -32,9 +41,8 @@ export default class ApplicationRoute extends Route {
       run(() => {
         scheduleOnce('afterRender', this, () => {
           setTimeout(() => {
-            hljs.highlightAll();
+            this.afterRender();
           }, 100);
-
         });
       });
 

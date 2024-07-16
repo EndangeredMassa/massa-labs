@@ -135,6 +135,7 @@ pre {
 
 details {
   background-color: inherit;
+  margin-top: 1rem;
 }
 
 details > *:not(summary) {
@@ -143,6 +144,7 @@ details > *:not(summary) {
 
 details > summary {
   background-color: var(--accent-bg);
+  border-radius: var(--standard-border-radius);
 }
 
 blockquote {
