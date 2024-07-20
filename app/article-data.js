@@ -2,7 +2,7 @@ let articles =
 [
   {
     "slug": "continuous-performance-management",
-    "published": false,
+    "published": true,
     "title": "Continuous Performance Management",
     "date": "2024-07-15",
     "tags": ["productivity"],

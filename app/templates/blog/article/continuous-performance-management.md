@@ -51,7 +51,7 @@ For each performance criteria, add an Overview/Summary that pulls out the highli
 For the full review, add an Overview/Summary that pulls out the highlights.
 
 
-### Comparison to Performance Improvement Plans
+## Comparison to Performance Improvement Plans
 
 I often seen Performance Improvement Plans (PIP) used to justify firing people. That's not always the explicit intent, but it is often the result. They have such earned, negative baggage that anyone on a PIP should start looking for new employment.
 
