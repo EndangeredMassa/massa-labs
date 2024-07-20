@@ -115,7 +115,7 @@ Opportunities for Growth towards `Next Level`
 
 ### `Performance Criteria B`
 
-> ...
+...
 </details>
 
 
@@ -142,9 +142,9 @@ Opportunities for Growth towards `Next Level`
     - **Project TEST COVERAGE**
         - ([1](https://example.com/link-to-linear-card)): automated a lot of our fixture management
 - Room for Improvement as L4
-    - TODO
+    - (none)
 - Opportunities for Growth to L5
-    - TODO
+    - (none)
 
 ### Impact
 
