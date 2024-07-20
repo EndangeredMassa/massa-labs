@@ -4,7 +4,7 @@ let articles =
     "slug": "continuous-performance-management",
     "published": true,
     "title": "Continuous Performance Management",
-    "date": "2024-07-15",
+    "date": "2024-07-20",
     "tags": ["productivity"],
     "description": "How to balance time, growth, and autonomy while keeping performance aligned with expectations."
   },
