@@ -122,30 +122,7 @@ Opportunities for Growth towards `Next Level`
 <details>
 <summary>Performance Alignment > Middle of Cycle Example</summary>
 
-*This is a realistic example of a performance alignment document for a Software Engineer of level L4 in the middle of a cycle. The full set of ladder levels don't matter for this example.*
-
-### Guidance
-
-- Read through
-    - [H1 Performance Review Cycle]()
-    - [Engineering Job Leveling Framework]()
-- Follow your work
-    - [Completed Cards by Assignment]()
-    - [Completed Cards by Label]()
-    - [Merged Pull Requests]()
-        - `user:vercel is:pr author:EMPLOYEE is:merged merged:>=2024-02-01`
-    - [Reviewed Pull Requests]()
-        - `user:vercel is:pr reviewed-by:EMPLOYEE created:>=2024-02-01 -author:EMPLOYEE`
-    - Search Slack [#kudos](https://vercel.slack.com/archives/CJZL9GSLR):
-        - `in:#kudos after:2024-01-31 @EMPLOYEE`
-    - Search Notion
-        - Sort: `Created: Newest first`
-        - Created By: `EMPLOYEE`
-        - Date: `2024-01-31` - (today)
-
-<br>
-
----
+*This is a realistic example of one performance criteria's notes in a performance alignment document for a Software Engineer of level L4 in the middle of a cycle.*
 
 ## Current Level: L4
 
@@ -156,7 +133,14 @@ Opportunities for Growth towards `Next Level`
 > **L4:** Proficient in multiple significant areas (or in one area with significant depth, for specialist roles). Work product is high-quality and elegant in its simplicity.
 
 - Examples
-    - TODO
+    - **Project NEW FEATURE**
+        - ([1](https://example.com/link-to-notion-doc)): brought clarity to the project by gathering inputs from customers, product, and design
+        - ([2](https://example.com/link-to-slack-post)): considered all the options carefully, then made a decision on a path forward
+        - ([3](https://example.com/link-to-linear-card)): reference for completion of this work
+    - **Project WORKFLOW IMPROVEMENTS**
+        - ([1](https://example.com/link-to-linear-card)): dove deep on figuring out the how the platform primitives work together at a technical level, then implemented the necessary change
+    - **Project TEST COVERAGE**
+        - ([1](https://example.com/link-to-linear-card)): automated a lot of our fixture management
 - Room for Improvement as L4
     - TODO
 - Opportunities for Growth to L5
@@ -164,42 +148,15 @@ Opportunities for Growth towards `Next Level`
 
 ### Impact
 
-> **General:** Scope of work and size of impact
->
->  **L4:** Consistently delivers multi-team impact, i.e. significantly helps multiple teams achieve their goals.
-
-- Examples
-    - TODO
-- Room for Improvement as L4
-    - TODO
-- Opportunities for Growth to L5
-    - TODO
+...
 
 ### Autonomy
 
-> **General:** Level of guidance required
->
-> **L4:** Identifies the right problems to solve and finds ways to solve the problem faster and with fewer resources than the norm.
-
-- Examples
-    - TODO
-- Room for Improvement as L4
-    - TODO
-- Opportunities for Growth to L5
-    - TODO
+...
 
 ### Collaboration
 
-> **General:** Effectiveness when working and communicating with others
->
-> **L4:** Strategic partner to other teams; they cannot achieve their goals without you. Communication is persuasive and succinct.
-
-- Examples
-    - TODO
-- Room for Improvement as L4
-    - TODO
-- Opportunities for Growth to L5
-    - TODO
+...
 
 </details>
 
@@ -241,10 +198,10 @@ Opportunities for Growth towards `Next Level`
 > **L4:** Proficient in multiple significant areas (or in one area with significant depth, for specialist roles). Work product is high-quality and elegant in its simplicity.
 
 - Examples
-    - **Project NEW FEATURE:** `EMPLOYEE` jumped into this already-long-running project, gained context quickly, and executed. This is one of the more complex parts of the the system that our team touches because of the implicit modeling and inferred state. `EMPLOYEE` took care to understand the system (reading code, asking questions, pairing), made great decisions about the best solution, then executed them with clarity of code and confidence via tests.
-    - **Project WORKFLOW IMPROVEMENTS:** `EMPLOYEE` dove deep into the system to understand how environments, environment variables, domains, branches, and project settings work. They leveraged this to great effect when pushing back on Product and Design to accommodate how the system works now, how it needs to change incrementally over time, and where we want it to end up.
-    - **Project TEST COVERAGE:** `EMPLOYEE` dove deep on the fixture management and updates part of this project. The maintenance burden from this project could have been quite high, but `EMPLOYEE` made sure we mitigated that as much as possible as soon as possible. They ensured that our fixture maintenance was considerate of the different ways different frameworks can release updates. `EMPLOYEE` also found a great solution to testing the node dimension of the matrix.
-    - **Project CI/CD IMPROVEMENTS:** `EMPLOYEE` figured out how Datadog works, how their ci/cd improvements feature works, and made it happen. We now have clear reports on how often our test suites are flakey and what the failures were that we can review each week.
+    - **Project NEW FEATURE:** `EMPLOYEE` jumped into this already-long-running project, gained context quickly, and executed. This is one of the more complex parts of the the system that our team touches because of the implicit modeling and inferred state. `EMPLOYEE` took care to understand the system (reading code, asking questions, pairing), made great decisions about the best solution, then executed them with clarity of code and confidence via tests. ([1](https://example.com/link-to-notion-doc)) ([2](https://example.com/link-to-slack-post)) ([3](https://example.com/link-to-linear-card))
+    - **Project WORKFLOW IMPROVEMENTS:** `EMPLOYEE` dove deep into the system to understand how environments, environment variables, domains, branches, and project settings work. They leveraged this to great effect when pushing back on Product and Design to accommodate how the system works now, how it needs to change incrementally over time, and where we want it to end up. ([1](https://example.com/link-to-notion-doc)) ([2](https://example.com/link-to-slack-post)) ([3](https://example.com/link-to-linear-card))
+    - **Project TEST COVERAGE:** `EMPLOYEE` dove deep on the fixture management and updates part of this project. The maintenance burden from this project could have been quite high, but `EMPLOYEE` made sure we mitigated that as much as possible as soon as possible. They ensured that our fixture maintenance was considerate of the different ways different frameworks can release updates. `EMPLOYEE` also found a great solution to testing the node dimension of the matrix. ([1](https://example.com/link-to-notion-doc)) ([2](https://example.com/link-to-slack-post)) ([3](https://example.com/link-to-linear-card))
+    - **Project CI/CD IMPROVEMENTS:** `EMPLOYEE` figured out how Datadog works, how their ci/cd improvements feature works, and made it happen. We now have clear reports on how often our test suites are flakey and what the failures were that we can review each week. ([1](https://example.com/link-to-linear-card))
 - Room for Improvement as L4
     - (none)
 - Opportunities for Growth to L5
@@ -259,9 +216,9 @@ Opportunities for Growth towards `Next Level`
 >  **L4:** Consistently delivers multi-team impact, i.e. significantly helps multiple teams achieve their goals.
 
 - Examples
-    - **Project NEW FEATURE:** `EMPLOYEE` took over Project Lead for NEW FEATURE to finish out the bugs and complete some new scope added by leadership. This included bringing on a member of Turbo and a member of Design Engineering to execute, leading up to the Project WORKFLOW IMPROVEMENTS. This was all done outside our team mandate.
-    - **Project WORKFLOW IMPROVEMENTS:** `EMPLOYEE` lead this project from pretty rough requirements to much clearer requirements, as of the end of this Performance Review cycle. This required working with Product, Design, Design Engineering, RELATED TEAMS. This was all done outside our team mandate.
-    - **Project TEST COVERAGE:** `EMPLOYEE` dove deep on the fixture management and updates part of this project. The maintenance burden from this project could have been quite high, but `EMPLOYEE` made sure we mitigated that as much as possible as soon as possible. This greatly improved the coverage of `vercel/api` changes over Framework, Runtime, or Package Manager support. This helps RELATED TEAMS ship their changes more reliably.
+    - **Project NEW FEATURE:** `EMPLOYEE` took over Project Lead for NEW FEATURE to finish out the bugs and complete some new scope added by leadership. This included bringing on a member of Turbo and a member of Design Engineering to execute, leading up to the Project WORKFLOW IMPROVEMENTS. This was all done outside our team mandate. ([1](https://example.com/link-to-notion-doc)) ([2](https://example.com/link-to-slack-post)) ([3](https://example.com/link-to-linear-card))
+    - **Project WORKFLOW IMPROVEMENTS:** `EMPLOYEE` lead this project from pretty rough requirements to much clearer requirements, as of the end of this Performance Review cycle. This required working with Product, Design, Design Engineering, RELATED TEAMS. This was all done outside our team mandate. ([1](https://example.com/link-to-notion-doc)) ([2](https://example.com/link-to-slack-post)) ([3](https://example.com/link-to-linear-card))
+    - **Project TEST COVERAGE:** `EMPLOYEE` dove deep on the fixture management and updates part of this project. The maintenance burden from this project could have been quite high, but `EMPLOYEE` made sure we mitigated that as much as possible as soon as possible. This greatly improved the coverage of `vercel/api` changes over Framework, Runtime, or Package Manager support. This helps RELATED TEAMS ship their changes more reliably. ([1](https://example.com/link-to-notion-doc)) ([2](https://example.com/link-to-slack-post)) ([3](https://example.com/link-to-linear-card))
     - **Mentorship of `TEAM MATE`:** `EMPLOYEE` has done a good job onboarding and mentoring `{TEAM MATE}` as they ramp up to the team.
 - Room for Improvement as L4
     - (minor) work with your manager to ensure there are opportunities for multi-team impact
@@ -279,11 +236,11 @@ Opportunities for Growth towards `Next Level`
 > **L4:** Identifies the right problems to solve and finds ways to solve the problem faster and with fewer resources than the norm.
 
 - Examples
-    - **Customer Support / Triage:** `EMPLOYEE` will run these to ground without oversight. There are no concerns about it being seen through to the end.
-    - **Project NEW FEATURE:** `EMPLOYEE` is leading this project, taking over from the previous lead. There's been a lot of collaboration so far because of the context handoff, but `EMPLOYEE` has completely taken over to the point that the previous lead no longer has to be involved.
-    - **Project WORKFLOW IMPROVEMENTS:** `EMPLOYEE` is leading this project and driving it well. Even though this project is still in the early stages, `EMPLOYEE` has very well identified the right problems to solve and in what order. Specifically, they drove the scope of Milestone 1 down to the most useful parts of defining WORKFLOW IMPROVEMENTS that require the least upheaval of the current codebase.
-    - **Project TEST COVERAGE:** `EMPLOYEE` took on the fixture implementation and maintenance work and drove it to a great place without oversight.
-    - **Project CI/CD IMPROVEMENTS:** `EMPLOYEE` surveyed the options, identified a solution that uses an existing tool (Datadog), and figured it out.
+    - **Customer Support / Triage:** `EMPLOYEE` will run these to ground without oversight. There are no concerns about it being seen through to the end. ([1](https://example.com/link-to-notion-doc)) ([2](https://example.com/link-to-linear-card))
+    - **Project NEW FEATURE:** `EMPLOYEE` is leading this project, taking over from the previous lead. There's been a lot of collaboration so far because of the context handoff, but `EMPLOYEE` has completely taken over to the point that the previous lead no longer has to be involved. ([1](https://example.com/link-to-notion-doc)) ([2](https://example.com/link-to-slack-post)) ([3](https://example.com/link-to-linear-card))
+    - **Project WORKFLOW IMPROVEMENTS:** `EMPLOYEE` is leading this project and driving it well. Even though this project is still in the early stages, `EMPLOYEE` has very well identified the right problems to solve and in what order. Specifically, they drove the scope of Milestone 1 down to the most useful parts of defining WORKFLOW IMPROVEMENTS that require the least upheaval of the current codebase. ([1](https://example.com/link-to-notion-doc)) ([2](https://example.com/link-to-slack-post)) ([3](https://example.com/link-to-linear-card))
+    - **Project TEST COVERAGE:** `EMPLOYEE` took on the fixture implementation and maintenance work and drove it to a great place without oversight. ([1](https://example.com/link-to-notion-doc)) ([2](https://example.com/link-to-slack-post)) ([3](https://example.com/link-to-linear-card))
+    - **Project CI/CD IMPROVEMENTS:** `EMPLOYEE` surveyed the options, identified a solution that uses an existing tool (Datadog), and figured it out. ([1](https://example.com/link-to-notion-doc)) ([2](https://example.com/link-to-slack-post)) ([3](https://example.com/link-to-linear-card))
 - Room for Improvement as L4
     - (none)
 - Opportunities for Growth to L5
@@ -299,12 +256,12 @@ Opportunities for Growth towards `Next Level`
 > **L4:** Strategic partner to other teams; they cannot achieve their goals without you. Communication is persuasive and succinct.
 
 - Examples
-    - **Customer Support / Triage:** `EMPLOYEE` works well with Customer Success, RELATED TEAMS when necessary to get these issues resolved. Questions are explicit and context is given where useful.
-    - **Project NEW FEATURE:** `EMPLOYEE` took over Project Lead. This project has required collaboration with Product, Design, and RELATED TEAMS. It has also required project management over members of Design Engineering and Turbo. `EMPLOYEE` has done all of this with great clarity.
-    - **Project WORKFLOW IMPROVEMENTS:** `EMPLOYEE` took over Project Lead. This has required getting context from the previous lead and working with Product, Design, and RELATED TEAMS to understand the current system, user needs, and requirements. `EMPLOYEE` has driven this jumble of opinions and data into a direction that we'll start to execute on soon. `EMPLOYEE` is also writing a handoff context document for when the ownership of this works moves to RELATED TEAMS.
+    - **Customer Support / Triage:** `EMPLOYEE` works well with Customer Success, RELATED TEAMS when necessary to get these issues resolved. Questions are explicit and context is given where useful. ([1](https://example.com/link-to-slack-post))
+    - **Project NEW FEATURE:** `EMPLOYEE` took over Project Lead. This project has required collaboration with Product, Design, and RELATED TEAMS. It has also required project management over members of Design Engineering and Turbo. `EMPLOYEE` has done all of this with great clarity. ([1](https://example.com/link-to-notion-doc)) ([2](https://example.com/link-to-slack-post)) ([3](https://example.com/link-to-linear-card))
+    - **Project WORKFLOW IMPROVEMENTS:** `EMPLOYEE` took over Project Lead. This has required getting context from the previous lead and working with Product, Design, and RELATED TEAMS to understand the current system, user needs, and requirements. `EMPLOYEE` has driven this jumble of opinions and data into a direction that we'll start to execute on soon. `EMPLOYEE` is also writing a handoff context document for when the ownership of this works moves to RELATED TEAMS. ([1](https://example.com/link-to-notion-doc)) ([2](https://example.com/link-to-slack-post)) ([3](https://example.com/link-to-linear-card))
 - Room for Improvement as L4
     - **Keep a source of truth when leading projects:** It helps a lot to keep a single source of truth up to date. In the future, you should make sure that the project document contains the most up to date premise, assumptions, requirements, and designs for a project leading up to it's true kickoff.
-        - **On WORKFLOW IMPROVEMENTS as an example:** The rest of the communication (in Slack, in the documents that did exist, and in meetings) was clear, full of context, and effective. However, it was a bit hard to follow what the current state was when someone new started following. It was also hard sometimes among the working group of Zero Config, Design, and Product to know what the current state was. (This was made harder by Design iterating on their own, but getting ahead of that in the future could help too.)
+        - **On WORKFLOW IMPROVEMENTS as an example:** The rest of the communication (in Slack, in the documents that did exist, and in meetings) was clear, full of context, and effective. However, it was a bit hard to follow what the current state was when someone new started following. It was also hard sometimes among the working group of Zero Config, Design, and Product to know what the current state was. (This was made harder by Design iterating on their own, but getting ahead of that in the future could help too.)  ([1](https://example.com/link-to-notion-doc)) ([2](https://example.com/link-to-slack-post)) ([3](https://example.com/link-to-linear-card))
 - Opportunities for Growth to L5
     - work with RELATED TEAMS to guide technical direction on WORKFLOW IMPROVEMENTS and potential future Pipeline projects
     - drive some decisions about how the division at large or at least RELATED TEAMS support frameworks and runtime at large
