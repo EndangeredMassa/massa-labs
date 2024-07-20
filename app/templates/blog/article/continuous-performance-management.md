@@ -51,6 +51,15 @@ For each performance criteria, add an Overview/Summary that pulls out the highli
 For the full review, add an Overview/Summary that pulls out the highlights.
 
 
+### Comparison to Performance Improvement Plans
+
+I often seen Performance Improvement Plans (PIP) used to justify firing people. That's not always the explicit intent, but it is often the result. They have such earned, negative baggage that anyone on a PIP should start looking for new employment.
+
+The premise of a PIP is compelling: make it clear to an employee what they need to be doing and (hopefully) how to get there to be successful. That should be available to everyone!
+
+The process in this post is exactly that. Clear requirements for success, clear guidance on how to get there, periodic check-ins to make sure they're on the right track. All without the negative baggage.
+
+
 ## My Results
 
 Running and delivering reviews using this model has been very well received.
