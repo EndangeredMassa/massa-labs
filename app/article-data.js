@@ -19,7 +19,7 @@ let articles =
   {
     "slug": "favorite-tech-commentary-sources",
     "published": true,
-    "title": "Favorite Tech Commentary Sources: Tech Won't Save Us, Cory Doctorow, Last Week Tonight, Molly White, How to Fix the Internet",
+    "title": "Favorite Tech Commentary Sources: Tech Won't Save Us, Cory Doctorow, Last Week Tonight, 404 Media, Molly White, How to Fix the Internet",
     "date": "2024-03-21",
     "tags": ["social", "tech", "favorite"],
     "description": "Why these are my favorite sources of commentary on the state of technology."

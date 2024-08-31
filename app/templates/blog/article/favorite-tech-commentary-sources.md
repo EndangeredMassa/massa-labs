@@ -1,7 +1,6 @@
 <ArticleHeader @article={{this.model}} />
 
 
-
 ## Tech Won't Save Us
 
 [Tech Won't Save Us](https://www.techwontsave.us) | [Tech Won't Save Us (YouTube)](https://www.youtube.com/@techwontsaveus)
@@ -49,6 +48,21 @@ Critical of:
 - medical system
 - prison system
 - supreme court
+
+
+## 404 Media
+
+[404 Media (site)](https://www.404media.co/) | [404 Media Podcast](https://www.404media.co/the-404-media-podcast/)
+
+Jason Koebler, Sam Cole, Joseph Cox, and Emanuel Maiberg live their motto very well: Unparalleled access to hidden worlds both online and IRL. They report on communities and transgressions (of law and good sense).
+
+Critical of:
+- AI
+- surveillance
+- social media
+- cybercrime
+- obtruction to right to repair
+- obtruction to sex work
 
 
 ## Molly White
