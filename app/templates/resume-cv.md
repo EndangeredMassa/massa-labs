@@ -10,23 +10,28 @@ Chicago area, IL
 
 ## Experience
 
-### Engineering Manager
+### Engineering Manager / Team Lead
 
 <div class="pill-box">
   <code class="pill">Vercel</code>
-  <code class="pill"><IconSvg @name="calendar" /> Jan 2022 - Present</code>
+  <code class="pill"><IconSvg @name="calendar" /> Jan 2022 - Present (almost 3 years)</code>
 </div>
 
-**Organizational Development:** Worked with a small group to define, roll out, and iterate the engineering career ladder. Draw on my personal collection of ~40 career ladders as well as personal experience creating multiple ladders in the past.
+**Organizational Development:** Was a driving force (with a small group) that worked to define, roll out, and iterate the engineering career ladder. Drew on my personal collection of ~40 career ladders as well as personal experience creating multiple ladders in the past. Integrated company values, provided real examples, ran tests, and solicited feedback.
 
-**Team Building and People Leadership:** Set the standard for continuous performance review process, hiring teams, and running teams. Consistently delievered "the most useful review I've ever received" to my reports.
+**Team Building and People Leadership:** Set the standard for continuous performance review process and hiring effectively. Provided clear understanding of the performance criteria, the weights behind them, and strategic advide on tackling each one. Planned for "what does a successful review cycle look like?" with those that reported to me. Consistently delievered detailed performance reviews, often called "the most useful review I've ever received".
 
-**Cross-team, Cross-functional Problem Solving:** Drove, designed, collaborated, and executed multiple cross-team, cross-functional intiatives to address significant issues affecting the platform.
+**Cross-team, Cross-functional Problem Solving:** Drove, designed, collaborated, and executed multiple cross-team, cross-functional intiatives to address significant issues affecting the platform. This often came in the form of research, writing an RFC, getting agreement, and coordinating the work across teams.
 
-**Team and Technical Leadership:** Worked with dozens of people across the company to get input and feedback on a long-term direction, developed a detailed technical and organizational plan, synthesized it into key points for presenting to leadership, then reoriented planning (not just on my team) to this north star.
+- **Git Provider Webhook Resilience:** Events would be slow to deliver or missing entire from third-party git providers. In order to make the system resilient and users accommodated, wrote an RFC that described the specific issues (with examples), and a set of solution options. Lead the discussion around choosing one or more.
+- **Universal Promote:** The platform generally takes Source Code into a Build that produces a Deployment that Aliases all configured Domains. It held a core assumption that a Deployment was Aliased right away, but that needed to change to allow more use cases. Wrote a large RFC that laid out the use cases, problems that needed to be solved, and how to get there. Coordinated across teams to get the work done.
+- **Deployment Reliability:** The Build process had many contributors across teams, but had to be carefully monitored during rollouts to ensure reliable service. To ensure reliable rollout and quick recoveries, instituted a cross-team training and approval process that restricted deployments to only trained people.
+
+**Team and Technical Leadership:** Worked with dozens of people across the company to get input and feedback on a long-term direction, developed a detailed technical and organizational plan, synthesized it into key points for presenting to leadership, then reoriented planning (not just on my team) to this north star. Wrote a detailed Vision document that made this direction clear with a guide for how to roadmap in that direction. This guide was structured to provide incremental value, allowing for changes in priorities to not waste time.
 
 **Made Hard Calls for Quality:** Declared a "Code Yellow" for my team to stop product work to focus on a new test matrix that tests deployments across the dimensions: node version, framework version, and package manager. This allowed the company to deploy with confidence.
 
+**Hands-on Execution:** Executed as an individual contributor in addition to other responsibilties. Moved projects forward, made improvements to CI/CD, and improved IDE support.
 
 ### Tech Lead
 
@@ -61,6 +66,7 @@ Project Management:
  - Project Planning
  - Project Process Development and Implementation
 
+Clients are confidential.
 
 ### Chief Technology Officer (CTO)
 

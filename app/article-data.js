@@ -1,6 +1,30 @@
 let articles =
 [
   {
+    "slug": "opportunity-vs-impact",
+    "published": false,
+    "title": "Detangling Opportunity and Impact",
+    "date": "2024-10-05",
+    "tags": ["productivity"],
+    "description": ""
+  },
+  {
+    "slug": "detangling-outcomes-outputs",
+    "published": false,
+    "title": "Detangling Outcomes and Outputs",
+    "date": "2024-10-05",
+    "tags": ["productivity"],
+    "description": ""
+  },
+  {
+    "slug": "how-to-scope-a-project",
+    "published": false,
+    "title": "How to Scope a Project",
+    "date": "2024-10-05",
+    "tags": ["productivity"],
+    "description": ""
+  },
+  {
     "slug": "continuous-performance-management",
     "published": true,
     "title": "Continuous Performance Management",
