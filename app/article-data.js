@@ -4,7 +4,7 @@ let articles =
     "slug": "opportunity-vs-impact",
     "published": true,
     "title": "Detangling Opportunity and Impact",
-    "date": "2024-10-05",
+    "date": "2024-11-19",
     "tags": ["productivity"],
     "description": "Impact is often a requirement to advancement, but a lack of opportunity can get in the way. Here's how to navigate that conflict."
   },
@@ -12,7 +12,7 @@ let articles =
     "slug": "detangling-outcomes-outputs",
     "published": true,
     "title": "Detangling Outcomes and Outputs",
-    "date": "2024-10-05",
+    "date": "2024-11-19",
     "tags": ["productivity"],
     "description": "Team performance perception is dominated by Outcomes and Ouptuts. Here's how to understand how that works and why it matters."
   },
