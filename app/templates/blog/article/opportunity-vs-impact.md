@@ -13,59 +13,73 @@ The general guidance I have for team members that want to focus on their impact 
 
 > Work with [your manager, tech lead, or director] to find or make opportunities to have [level of impact].
 
-In this article, I want to share how team members can go about doing that.
+In this article, I want to share how team members can do that.
 
 
 ## Finding Opportunities
 
-Opportunity can often be found. At a large enough company, user base, or code base, you can find a problem that no one is paying attention to.
+Opportunity can often be found. At a large enough company, user base, or code base, you can find a problem that no one is paying attention to or willing to own.
 
 **Customer Issues:** Read through old customer issues, looking for common problems.
 
 **Collaboration Issues:** Read through questions from other teams for common issues. Talk to the related business functions, e.g, Security, Legal, Data, DevRel, Docs, Pricing about their pain points working with your team or Engineering.
 
-**Incidents:** Audit a history of incidents.
+**Incidents:** Audit a history of incidents, looking for common problems. Track down action items to see if the root cause was resolved.
 
-**CI / CD:** CI / CD issues
+**CI / CD:** Audit a history of CI / CD runs for issues.
 
-**Roadmap:** look ahead at the team’s roadmap for impactful projects and lobby to lead that project
+**Roadmap:** Look ahead at the team’s roadmap for impactful projects and lobby to lead one of them.
 
-**Competition:** look at the industry or competitors to find gaps in Vercel’s products
+**Competition:** Look at the industry or competitors to find gaps in your company's products.
 
-Sometimes the opportunity you find will have obvious value and priority to decision makers. If not, you'll have to make the opportunity
+Sometimes the opportunity you find will have obvious value and priority to decision makers. If not, you'll have to make the opportunity real.
 
 
-## Making Opportunities
+## Making Opportunities Real
 
-How to make opportunity for a given project idea.
+Depending on how your company works and the type of opportunity, you may take one or more of these options to making the opportunity real.
 
-**Write an RFC:**
+**Write an RFC:** It doesn't have to be a formal RFC, unless your company already does that. Write a document that describes what the problem is, history behind that problem, what the proposed solution is, some idea of what the benefit is, and some idea of how much work it would take to get there.
 
-**Create a Demo:**
+**Create a Demo:** Create a demo that shows the value of solving this specific problem.
 
-**Resolve Unknowns:**
+**Write the Blog Post / Change Log:** Assuming this propblem is already solved, write the blog post or changelog entry you expect to be able to announce. These can be very effective at communicating the value.
 
-- talk to the related engineering teams
-- talk to the related business functions, e.g, Security, Legal, Data, DevRel, Docs, Pricing
-- lobby your manager, tech lead, product manager, and/or director
+**Get Buy-in:** Talk to the related engineering teams, business functions, or whomever else is impacted by the problem. Get their input and buy in on solving it, ideally in the specific way you will propose.
 
+**Resolve Unknowns:** Investigate the key technical unknowns and ensure they can be mitigated or resolved. You don't have to resolve every unknown, but make sure there are no major unknowns.
+
+**Just Do It:** You probably already know if this is acceptable for the situation, but it's worth thinking about to be sure. If it wouldn't take very long to build or you work in a very individualistic / autonomous environment, consider just doing it.
+
+
+## Pitching Opportunities
+
+If there's already a process in use for this, follow that process. You may want to add to it based on what we discuss here, but start with what's required for your workplace.
+
+The best way to pitch an opportunity is to understand what the other person wants:
+
+- understand the problem and the cost of not fixing it
+- understand the proposed solution's costs and benefits
+- importance / severity of solving this problem now rather than later
+
+Costs and benefits are likely estimates, but use real data where possible. Doing anything from "Making Opportunities Real" is going to (1) make a better case and (2) show you are invested in the problem. 
+
+If possible, break the solution up such that you can stop implementation at points in the middle to still receive some amount of the value. This makes your project flexible to other priorities, which is appealing to decision makers.
 
 
 ## Driving Opportunities to Completion
 
-When an opportunity is being worked on that can have the desired level of impact, such as a project, how well the team member managed external forces can affect their impact.
+Driving an opportunity to completion requires navigation through organizational weather. There can be changes in leadership or priorities. There can be delays in collaboration with other teams or business functions. The clarity of the work, the resolution of the unknowns, the buy-in gathered from stakeholders and decision makes will all help.
 
-Forces
-- Organizational Weather
-- Project Clarity
+Your impact will be affected by how well you navigate this weather.
 
 
-## Responsibility of Individual vs. Manager
+### Responsibility of Individual vs. Manager
 
-Each advancement level should probably have a different level of responsibility for how they find opportuniuties, make opportunities, or manage external forces.
+If "impact" or "autonomy" is part of how you are judged in performance review, you'll want to get clarity on how much that can affected your overall score.
 
-**Who is responsible for pushing projects through external forces (requirements change, appetite change, potential project cancellation)?**
+Each career level should probably have a different level of responsibility for how they find, make, pitch, or drive opportunities. The trend I've noticed is:
 
-- early career: more manager than team member
+- early career: manager more responsible than team member
 - later career: balance between manager and team member
-- master level: mostly team member
+- master level: team member more responsible than manager

@@ -2,7 +2,7 @@
 
 The perception of a team's performance can very by many things. There have been many discussions about Outcomes (higher-level effects) vs Outputs (lower-level, discrete results), where many argue that Outcomes are all that matter. I've long bristled at this notion, but couldn't articulate the full depth of why until now.
 
-I see Team Performance in the following categories, ordered from best operating teams to least:
+I see Team Performance in the following categories, ordered from (perceived) best operating teams to least:
 
 1. Outcomes High
 1. Outcomes Low, Outputs High
@@ -66,11 +66,11 @@ I see Team Performance in the following categories, ordered from best operating 
 
 ## Key Insights
 
-I see Outcomes as the ultimate goal, but you can only reliabily get there if you focus on Outputs first. I see Outcomes as software engineering fundamentals. If those are good, you can often make other small changes to achieve high Outcomes.
+I see Outcomes as the ultimate goal, but you can only reliabily get there if you focus on Outputs first. I see Outputs as software engineering fundamentals. If those are good, you can often (but not always) make other small changes to achieve high Outcomes.
 
-**When Outcomes are high, but Outputs are low:** You are in danger of falling to "3. Outputs Low, Context Deep", or worse.
+**When Outcomes are high, but Outputs are low:** You are in danger of falling down two levels to "3. Outputs Low, Context Deep", or worse.
 
-**When Outcomes are low:** It's tempting to blame process.
+**When Outcomes are low:** It's tempting to blame process, looking to add more or remove some.
 
 **When Outputs are low:** It's tempting to scrutinize hours worked and tasks completed on a daily basis.
 
