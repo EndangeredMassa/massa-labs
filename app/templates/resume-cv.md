@@ -19,9 +19,9 @@ Chicago area, IL
 
 **Organizational Development:** Was a driving force (with a small group) that worked to define, roll out, and iterate the engineering career ladder. Drew on my personal collection of ~40 career ladders as well as personal experience creating multiple ladders in the past. Integrated company values, provided real examples, ran tests, and solicited feedback.
 
-**Team Building and People Leadership:** Set the standard for continuous performance review process and hiring effectively. Provided clear understanding of the performance criteria, the weights behind them, and strategic advide on tackling each one. Planned for "what does a successful review cycle look like?" with those that reported to me. Consistently delievered detailed performance reviews, often called "the most useful review I've ever received".
+**Team Building and People Leadership:** Set the standard for continuous performance review process and hiring effectively. Provided clear understanding of the performance criteria, the weights behind them, and strategic advice on tackling each one. Planned for "what does a successful review cycle look like?" with those that reported to me. Consistently delivered detailed performance reviews, often called "the most useful review I've ever received".
 
-**Cross-team, Cross-functional Problem Solving:** Drove, designed, collaborated, and executed multiple cross-team, cross-functional intiatives to address significant issues affecting the platform. This often came in the form of research, writing an RFC, getting agreement, and coordinating the work across teams.
+**Cross-team, Cross-functional Problem Solving:** Drove, designed, collaborated, and executed multiple cross-team, cross-functional initiatives to address significant issues affecting the platform. This often came in the form of research, writing an RFC, getting agreement, and coordinating the work across teams.
 
 - **Git Provider Webhook Resilience:** Events would be slow to deliver or missing entire from third-party git providers. In order to make the system resilient and users accommodated, wrote an RFC that described the specific issues (with examples), and a set of solution options. Lead the discussion around choosing one or more.
 - **Universal Promote:** The platform generally takes Source Code into a Build that produces a Deployment that Aliases all configured Domains. It held a core assumption that a Deployment was Aliased right away, but that needed to change to allow more use cases. Wrote a large RFC that laid out the use cases, problems that needed to be solved, and how to get there. Coordinated across teams to get the work done.
@@ -31,7 +31,7 @@ Chicago area, IL
 
 **Made Hard Calls for Quality:** Declared a "Code Yellow" for my team to stop product work to focus on a new test matrix that tests deployments across the dimensions: node version, framework version, and package manager. This allowed the company to deploy with confidence.
 
-**Hands-on Execution:** Executed as an individual contributor in addition to other responsibilties. Moved projects forward, made improvements to CI/CD, and improved IDE support.
+**Hands-on Execution:** Executed as an individual contributor in addition to other responsibilities. Moved projects forward, made improvements to CI/CD, and improved IDE support.
 
 ### Tech Lead
 
