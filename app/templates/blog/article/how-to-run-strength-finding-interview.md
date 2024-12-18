@@ -319,7 +319,7 @@ You may be able to imagine how we take that scorecard through to the execution o
 
 I hope you found Strength-finding Interviews useful. This is the result of research, experimentation, and iteration across years of work, quite often in collaboration with [Trek](https://mastodon.social/@trek). You can read [Trek's earlier take](https://medium.com/@trek/tired-engineering-interviews-hired-engineering-auditions-5f9f00147a57) on this format, as well.
 
-I consider this to be an evolving process. If you have questions or feedback, please let me know! Please send it to [@sean@social.massalabs.com](https://social.massalabs.com/@sean), [endangeredmassa@gmail.com](mailto:endangeredmassa@gmail.com), or comment below!
+I consider this to be an evolving process. If you have questions or feedback, please let me know! Please send it to [@sean@social.massalabs.com](https://social.massalabs.com/@sean), [sean@massalabs.com](mailto:sean@massalabs.com), or comment below!
 
 
 ## Related Resources

@@ -1,7 +1,7 @@
 # Sean Massa's Resume / CV
 
 <a href="https://massalabs.com/resume-cv">https://massalabs.com/resume-cv</a><br>
-endangeredmassa@gmail.com<br>
+sean@massalabs.com<br>
 Chicago area, IL
 
 <div class="no-print">
