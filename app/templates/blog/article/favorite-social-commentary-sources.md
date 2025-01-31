@@ -3,7 +3,7 @@
 
 ## If Books Could Kill
 
-[If Books Could Kill](https://www.ifbookspod.com) | [(support)](https://www.patreon.com/IfBooksPod)
+[If Books Could Kill](https://www.ifbookspod.com)
 
 Michael Hobbes and Peter Shamshiri read popular airport / pop science books. They research the author, context, and reception, then apply deep, critical thinking to the topic.
 
@@ -14,6 +14,7 @@ Critical of:
 - misrepresenting quotes, positions, data
 - generalizations
 
+Support: [(patreon)](https://www.patreon.com/IfBooksPod)
 
 ## Last Week Tonight with John Oliver
 
