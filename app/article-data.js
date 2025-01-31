@@ -1,6 +1,14 @@
 let articles =
 [
   {
+    "slug": "favorite-social-commentary-sources",
+    "published": true,
+    "title": "Favorite Social Commentary Sources: If Books Could Kill, Last Week Tonight",
+    "date": "2025-01-31",
+    "tags": ["social", "favorite"],
+    "description": "Why these are my favorite sources of commentary on society in general."
+  },
+  {
     "slug": "opportunity-vs-impact",
     "published": true,
     "title": "Detangling Opportunity and Impact",
@@ -43,9 +51,9 @@ let articles =
   {
     "slug": "favorite-tech-commentary-sources",
     "published": true,
-    "title": "Favorite Tech Commentary Sources: Tech Won't Save Us, Cory Doctorow, Last Week Tonight, 404 Media, Molly White, How to Fix the Internet",
+    "title": "Favorite Tech Commentary Sources: Tech Won't Save Us, Cory Doctorow, 404 Media, Molly White, Louis Rossmann, How to Fix the Internet",
     "date": "2024-03-21",
-    "tags": ["social", "tech", "favorite"],
+    "tags": ["tech", "favorite"],
     "description": "Why these are my favorite sources of commentary on the state of technology."
   },
   {
