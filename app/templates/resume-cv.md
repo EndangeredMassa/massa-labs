@@ -10,11 +10,11 @@ Chicago area, IL
 
 ## Experience
 
-### Engineering Manager / Team Lead
+### Engineering Manager / Tech Lead
 
 <div class="pill-box">
   <code class="pill">Vercel</code>
-  <code class="pill"><IconSvg @name="calendar" /> Jan 2022 - Present (almost 3 years)</code>
+  <code class="pill"><IconSvg @name="calendar" /> Jan 2022 - Feb 2025 (3 years, 1 month)</code>
 </div>
 
 **Organizational Development:** Was a driving force (with a small group) that worked to define, roll out, and iterate the engineering career ladder. Drew on my personal collection of ~40 career ladders as well as personal experience creating multiple ladders in the past. Integrated company values, provided real examples, ran tests, and solicited feedback.
@@ -89,7 +89,7 @@ Clients are confidential.
 <b>Leadership:</b> Owned technical vision. Aligned with business vision. Grew and down-scaled the team as necessary, even though it was painful.
 
 
-### Tech lead / Senior Software Engineer
+### Tech Lead / Senior Software Engineer
 
 <div class="pill-box">
   <code class="pill">ActiveCampaign</code>
@@ -103,7 +103,7 @@ Clients are confidential.
 <b>Community Engagement:</b> Facilitated the Chicago Ember.js meetup events in the office. Helped coordinate sending 7 people to EmberConf and share our experiences when come back. Ran Lunch & Learn events where we watched instructional videos (like an EmberMap series) and discussed them in the context of our own work.
 
 
-### Tech lead / Senior Software Engineer
+### Tech Lead / Senior Software Engineer
 
 <div class="pill-box">
   <code class="pill">JPMorgan Chase</code>
@@ -119,7 +119,7 @@ Working on an Ember-based internal framework team with a focus on enabling other
 <b>Team Processes:</b> Improving team development processes by relying on a strong Retrospective process to drive the rest of the change the team wants to do. Changes are very problem focused--what's the real issue we're trying to solve, what possible options are there to solve that problem, what are the pros/cons of each, and after we've chosen one, how do we know if it was successful.
 
 
-### Tech lead / Senior Software Engineer
+### Tech Lead / Senior Software Engineer
 
 <div class="pill-box">
   <code class="pill">Popular Pays</code>

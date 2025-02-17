@@ -1,6 +1,14 @@
 let articles =
 [
   {
+    "slug": "how-to-use-linear",
+    "published": true,
+    "title": "How to Use: Linear",
+    "date": "2025-02-16",
+    "tags": ["productivity"],
+    "description": "Linear is a fantastic project management tool. In this article I share notes on how best to leverage it for effective project management."
+  },
+  {
     "slug": "favorite-social-commentary-sources",
     "published": true,
     "title": "Favorite Social Commentary Sources: If Books Could Kill, Last Week Tonight",

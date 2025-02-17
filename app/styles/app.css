@@ -324,6 +324,11 @@ p + ul {
   display: none;
 }
 
+aside {
+  padding: 1rem;
+  margin: 1rem;
+}
+
 @media print {
   * {
     font-size: 0.75rem;
