@@ -33,6 +33,7 @@ class IndexRouteComponent extends Component {
       <li>community organizer of meetups, hackathons, and conferences</li>
     </ul>
 
+
     <h3>Personal Statement</h3>
 
     <p>I've been a software engineer for 18 years. That's wild to me. I still vividly remember being 3 years into my career, desperate to reach 5+ years and achieve a senior title. Now, I realize just how much there was to learn after that. At 18 years, I'm still learning, certainly, but I've also already learned <b>so</b> much about how to build software and run software development companies.</p>
@@ -53,6 +54,36 @@ class IndexRouteComponent extends Component {
       Feel free to reach out to me about anything, especially if it's about my interests, on Mastodon at
       <a href="https://social.massalabs.com/@sean">@sean@social.massalabs.com</a>.
     </p>
+
+
+    <h3>Quotes About my Work</h3>
+
+    <blockquote>
+      <p>"Sean is the best in our product area at asking the hard questions."<br>~ Director of Engineering</p>
+    </blockquote>
+    <blockquote>
+      <p>"Sean wrote a master class in how to use [our project management software]."<br>~ Director of Engineering</p>
+    </blockquote>
+    <blockquote>
+      <p>"Sean's project management is the best I've ever worked with."<br>~ Director of Engineering</p>
+    </blockquote>
+    <blockquote>
+      <p>"Sean's team's project kickoffs are the best. I wish every team did it this way."<br>~ Director of Engineering</p>
+    </blockquote>
+    <blockquote>
+      <p>"Sean brings clarity out of chaos."<br>~ Director of Engineering</p>
+    </blockquote>
+
+    <blockquote>
+      <p>"Sean is the best Engineering Manager we have."<br>~ VP of Engineering</p>
+    </blockquote>
+    <blockquote>
+      <p>"I have enormous respect for Sean's work, approach, and critical thinking."<br>~ VP of Engineering</p>
+    </blockquote>
+
+    <blockquote>
+      <p>"Sean's team is the best run at the company."<br>~ Engineering Manager</p>
+    </blockquote>
 
   </template>
 }
