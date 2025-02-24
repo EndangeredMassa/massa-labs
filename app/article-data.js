@@ -1,6 +1,38 @@
 let articles =
 [
   {
+    "slug": "favorite-games",
+    "published": false,
+    "title": "Favorite Games of All Time",
+    "date": "2025-02-23",
+    "tags": ["gaming", "favorite"],
+    "description": "My favorite games of all time."
+  },
+  {
+    "slug": "games-played-2025",
+    "published": false,
+    "title": "Games Played in 2025",
+    "date": "2025-02-23",
+    "tags": ["gaming", "favorite"],
+    "description": "My favorite games (and everything else) I played in 2025."
+  },
+  {
+    "slug": "games-played-2024",
+    "published": false,
+    "title": "Games Played in 2024",
+    "date": "2025-02-23",
+    "tags": ["gaming", "favorite"],
+    "description": "My favorite games (and everything else) I played in 2024."
+  },
+  {
+    "slug": "games-played-2023",
+    "published": true,
+    "title": "Games Played in 2023",
+    "date": "2025-02-23",
+    "tags": ["gaming", "favorite"],
+    "description": "My favorite games (and everything else) I played in 2023."
+  },
+  {
     "slug": "how-to-use-linear",
     "published": true,
     "title": "How to Use: Linear",
