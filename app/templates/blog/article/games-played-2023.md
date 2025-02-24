@@ -9,9 +9,9 @@ This year, I played several games that became some of my favorite games of all t
     - Now that the bugs are (mostly) worked out, this is the best FPS open world game out there. The Phantom Liberty DLC has an better-paced, even more compelling story.
 - **Baldur's Gate 3**
     - It's the best way to play D&D in a video game.
-- **Zelda Breath of the Wild** (beat) AND **Tears of the Kingdom** (beat)
+- **Zelda Breath of the Wild** and **Tears of the Kingdom**
     - I played these basically back to back this year. Both are great, I enjoyed them a great deal, but I still don't like the weapon breaking/crafting system.
-- **Spider-Man 2** (beat)
+- **Spider-Man 2**
     - This is the new best super hero game of all time. Traversal through the city is amazing, the story is great, and combat is excellent.
 
 
@@ -19,7 +19,7 @@ This year, I played several games that became some of my favorite games of all t
 
 ### Single-Player Games
 
-- **Crisis Core Final Fantasy 7 Reunion** (beat)
+- **Crisis Core Final Fantasy 7 Reunion**
     - I never played the original. This game isn't amazing on console--it's very clearly a mobile-device game, but it's still fun. I really wanted to consume the story and see what upgrades they made in this version. If you are into the FF7 universe, this is worth it.    
 - **Final Fantasy XVI**
     - The boss fights are very pretty, but the story and setting were very boring to me. The definition of a Final Fantasy game has long be fuzzy, but this isn't even a Final Fantasy game to me.
@@ -29,13 +29,13 @@ This year, I played several games that became some of my favorite games of all t
     - The battle system is really neat. The character stories are mostly very interesting. The graphics are just incredible. This is worth trying for anyone who enjoys RPGs.
 - **Sea of Stars**
     - This game is wonderful, I'm just not very far into it yet. I very much want to get back to this and the other RPGs I only barely started like Chained Echoes and Octopath Traveler 2.
-- **Super Mario Bro's Wonder** (current, plan to beat)
+- **Super Mario Bro's Wonder**
     - Strong 2D mario with good flavor. It feels like a Super Mario World sequel.
-- **Super Mario RPG** (current, plan to beat)
+- **Super Mario RPG**
     - Great to have this on a modern platform. The changes feel nice, but it's very faithful to the original. Very weird that Land's End alt exit is still confusing as hell to find.
-- **Vampire Survivors** (consider it "beat", but didn't unlock everything)
+- **Vampire Survivors**
     - It's fun, but I'm basically done with it.
-- **Xenoblade Chronicles** (Definitive Edition) (current, plan to beat)
+- **Xenoblade Chronicles** (Definitive Edition)
     - The story is really neat, the combat system feels kinda like a bad MMO, but I still want to stick it through to get to the other games in the series. The character conversations mechanic made it too hard to unlock, which meant I unlocked almost none of them. That made it harder to like this game more.
 - **Yakuza Like a Dragon**
     - Hilarious RPG based in the real world (plus imagination). I liked it, and would like to see more of the story, but the progress is soooo slow. I had to drop it.
