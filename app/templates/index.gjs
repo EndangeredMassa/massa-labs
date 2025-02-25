@@ -85,6 +85,10 @@ class IndexRouteComponent extends Component {
       <p>"Sean's team is the best run at the company."<br>~ Engineering Manager</p>
     </blockquote>
 
+    <blockquote>
+      <p>"I have had a deep admiration for Sean's team’s organization. Shining example of what the rest of the org should do, IMO."<br>~ Product Manager</p>
+    </blockquote>
+
   </template>
 }
 
