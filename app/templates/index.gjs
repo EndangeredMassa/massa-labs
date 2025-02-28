@@ -42,7 +42,7 @@ class IndexRouteComponent extends Component {
 
     <p><b>Improve.</b> I can't help it. I am constantly reading, watching, asking, and listening. I take what I've learned and run experiments on myself, my team, and larger groups. I get feedback, check in on the goals of the experiment, and iterate.</p>
 
-    <p><b>Lead.</b> I can't help that either. It can be top-down or bottom-up, but in some way, I'm constantly driving or significantly contributing to important initiatives and collaborating with those around me.</p>
+    <p><b>Lead.</b> I can't help that either. It can be top-down or bottom-up, but in some way, I'm constantly driving or significantly contributing to important initiatives. I’m always collaborating with those around me.</p>
 
     <p><b>Collaborate.</b> I love working with people. I am constantly pairing, teaching, learning, sharing, mentoring, and generally iterating on collaborative processes. I grow people, process, and product.</p>
 
