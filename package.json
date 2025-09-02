@@ -52,7 +52,7 @@
     "webpack": "^5.88.2"
   },
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   },
   "packageManager": "pnpm@9.5.0",
   "ember": {
