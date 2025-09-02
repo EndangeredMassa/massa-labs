@@ -1,5 +1,10 @@
 <ArticleHeader @article={{this.model}} />
 
+<aside>
+  <b>Games Played This Year</b>
+  <p>The games listed here were played this year, not released this year.</p>
+</aside>
+
 This year, I played several games that became some of my favorite games of all time. I was pretty surprised by that. I highly recommend my favorites of this year.
 
 
