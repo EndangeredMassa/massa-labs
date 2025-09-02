@@ -12,9 +12,6 @@ I don't like to rank games. Instead, this is a collection of my favorite games g
 
 
 
-## Kingdom Hearts
-
-
 
 
 ## World of Warcraft
@@ -23,14 +20,20 @@ I don't like to rank games. Instead, this is a collection of my favorite games g
 
 ## Multi-player Games
 
-- The Cycle
-- Super Monday Night Combat
-- Baldur's Gate 3
-- **Apex Legends**
+- Super Monday Night Combat (2012 - 2014)
+- The Cycle (2019 - 2022)
+- Rumbleverse (2022 - 2023)
+- **Apex Legends** (2019 - 2023)
     - The core gameplay is awesome, but it seems like they only people who still play this are all amazing. I can't do well in this game anymore.
-- **Marvel Snap**
+
+
+## Digital Card Games
+
+- **Hearthstone** (2014 - 2017)
+    - 
+- **Marvel Snap** (2022 - 2024)
     - I've not been grabbed this hard by a quick card game since Hearthstone. The strategy of this game is higher than it appears. It's so good.
-- **MTG Arena**
+- **MTG Arena** (2019 - current)
     - I still love trying out each new set. If you do well enough in events, you can more/less go infinite (not pay).
 
 
@@ -39,6 +42,7 @@ I don't like to rank games. Instead, this is a collection of my favorite games g
 
 - Cyberpunk 2077 (Phantom Liberty)
 - Zelda Tears of the Kingdom
+- Baldur's Gate 3
 
 
 
