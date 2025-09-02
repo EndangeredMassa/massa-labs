@@ -1,6 +1,22 @@
 let articles =
 [
   {
+    "slug": "favorite-books",
+    "published": false,
+    "title": "Favorite Books of All Time",
+    "date": "2025-09-02",
+    "tags": ["books", "favorite"],
+    "description": "My favorite games of all time."
+  },
+  {
+    "slug": "favorite-podcasts",
+    "published": false,
+    "title": "Favorite Podcasts of All Time",
+    "date": "2025-09-02",
+    "tags": ["podcasts", "favorite"],
+    "description": "My favorite games of all time."
+  },
+  {
     "slug": "favorite-games",
     "published": false,
     "title": "Favorite Games of All Time",
