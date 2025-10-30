@@ -8,7 +8,7 @@ This process helps convey understanding of:
 - why it matters
 - how important it is to change now
 
-You can use the process [as documented by the author](https://conventionalcomments.org/), but I like using the following the following customized version.
+You can use the process [as documented by the author](https://conventionalcomments.org/), but I like using the following customized version.
 
 ## Streamlined Conventional Comments
 
