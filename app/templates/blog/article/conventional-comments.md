@@ -12,10 +12,6 @@ You can use the process [as documented by the author](https://conventionalcommen
 
 ## Streamlined Conventional Comments
 
-All comments must be resolved before merging, but resolution can look different for different kinds of comments.
-
-All comments are also non-blocking unless otherwise specified.
-
 ### Format
 
 By following this format, the intention is clear whether or not the reader has seen this before.
@@ -29,23 +25,20 @@ By following this format, the intention is clear whether or not the reader has s
 Part definitions:
 
 - **label:** this is a single label that signifies what kind of comment (see above) is being left:
-    - question
-    - suggestion
-    - convention
-    - requirement
-- **blocking-status** (optional)
-    - (blank): does not block merging
-    - non-blocking: does not block merging
-    - soft-blocking: does not block merging, but the comment should be resolved in a follow-up code change
+    - question: I want to know the answer to this question
+    - suggestion: I suggest this change for the given reasons
+    - convention: a team or codebase convention is not being followed
+    - requirement: a requirement of the task is not met
+- **blocking-status**
+    - non-blocking: does not block merging, does not need to be resolved
+    - soft-blocking: does not block merging, but the comment should be resolved before the task is considered complete
     - blocking: blocks merging
 - **subject:** brief and explicit description, no need for padded language
-- **details** (optional): the context, reasoning, and conversational messaging
+- **details:** the specifics, context, reasoning, and/or conversational messaging
 
 ## Examples
 
 > **question (non-blocking):** Were you able to find a case when `paging.next` doesn't exist?
-> 
-> When I tested analyzing temporary failures, the URL for next always seemed to exist and be the same across all subsequent polls. I ended up having to check whether `items.length === 0` (`events.length === 0`) instead to break out of the loop.
 
 > **suggestion (non-blocking):** extract functions
 > 
@@ -62,11 +55,11 @@ Part definitions:
 
 > **convention (blocking):** use `last_email_interaction_at`
 > 
-> Our convention for database column names says that dates should end in `_at`.
+> Our convention for database column names says that dates should end in `_at`. We should add a lint rule for this.
 > 
 > I marked this as "blocking" because migrations are expensive and risky in this database. We should minimize the number of migrations where possible.
 
-> **requirement (blocking):** invert conditional `if (found)` should be `if (!found)`
+> **requirement (blocking):** invert conditional
 > 
 > It looks like the code and test are accidentally checking that the file was found, but I think here we expect the file to not be found.
 
@@ -74,7 +67,7 @@ Part definitions:
 
 This structure makes it clear to others what needs to be done. It's also a good forcing function for the author to consider the feedback they provide more carefully.
 
-The best part is that readers don't have to know about the structure to understand feedback written in this style.
+The best part is that readers don't have to know about the structure to understand feedback written in this style. You can explain more specifically what "soft-blocking" means, though.
 
 ## Related Topics
 
