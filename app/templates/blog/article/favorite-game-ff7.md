@@ -6,13 +6,13 @@ Guide to absorbing the Final Fantasy VII universe.
 
 I was a big fan of Final Fantasy IV and VI as a kid. When Final Fantasy VII came out, I played it for so long the in game time maxed out at 99 hours.
 
-After that, Final Fantasy VI was still my favorite. Over time, though, I encontered more people who loved VII. The Retro Gaming YouTube culture put out many a video essay on the original and related games. The more I eplored other people's love for VII, the more I loved it, too.
+After that, Final Fantasy VI was still my favorite. Over time, though, I encontered more people who loved VII. The Retro Gaming YouTube culture put out many a video essay on the original and related games. The more I emplored other people's love for VII, the more I loved it, too.
 
 Having now played Remake and Rebirth, I've love the whole universe even more. This is how I want to share my love of it.
 
 ## The Journey
 
-This guide takes you from nothing to immersed in this world. I tried to add as many options for absorbing each part as possible, including playthroughs and summaries where possible.
+This guide takes you from nothing to immersed in this world. I tried to add as many options for absorbing each part as possible, including playthroughs and summaries.
 
 ### Full Play/Watch/Read Order
 
@@ -33,7 +33,7 @@ This guide takes you from nothing to immersed in this world. I tried to add as m
         - (watch summary) [Summary and Review](https://www.youtube.com/watch?v=uMDGwRBzwgA)
     - **Final Fantasy VII: The Kids Are Alright: A Turks Side Story** (after end of FF7 original)
         - (read) [Buy Book](https://www.amazon.com/Final-Fantasy-VII-Alright-Turks/dp/1975382366)
-        - (watch summary) [Summary of (The Kids are Alright)](https://youtu.be/ULvns3qN4UI?t=3103)
+        - (watch summary) [Summary of The Kids are Alright](https://youtu.be/ULvns3qN4UI?t=3103)
     - **Advent Children** (2 years after end of FF7 original)
         - (watch) [Buy Game](https://www.amazon.com/Final-Fantasy-VII-Children-Complete/dp/B091NQGL8X)
         - (watch summary) [The ULTIMATE Recap of Final Fantasy VII: Advent Children](https://www.youtube.com/watch?v=NZDbWAosmLs)
