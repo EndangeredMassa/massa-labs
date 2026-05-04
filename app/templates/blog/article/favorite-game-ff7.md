@@ -6,7 +6,7 @@ Guide to absorbing the Final Fantasy VII universe.
 
 I was a big fan of Final Fantasy IV and VI as a kid. When Final Fantasy VII came out, I played it for so long the in game time maxed out at 99 hours.
 
-After that, Final Fantasy VI was still my favorite. Over time, though, I encontered more people who loved VII. The Retro Gaming YouTube culture put out many a video essay on the original and related games. The more I emplored other people's love for VII, the more I loved it, too.
+After that, Final Fantasy VI was still my favorite. Over time, though, I encontered more people who loved VII. The Retro Gaming YouTube culture put out many a video essay on the original and related games. The more I explored other people's love for VII, the more I loved it, too.
 
 Having now played Remake and Rebirth, I've love the whole universe even more. This is how I want to share my love of it.
 
