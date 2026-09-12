@@ -10,6 +10,15 @@ Chicago area, IL
 
 ## Experience
 
+### Staff Software Engineer
+
+<div class="pill-box">
+  <code class="pill">Optro (aka Auditboard and Soxhub)</code>
+  <code class="pill"><IconSvg @name="calendar" /> Mar 2025 - Current</code>
+</div>
+
+Current role.
+
 ### Engineering Manager / Tech Lead
 
 <div class="pill-box">
